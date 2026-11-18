@@ -1,0 +1,3574 @@
+{
+  "meta": {
+    "project": "Backrooms MMO",
+    "license": "CC-BY-SA-3.0",
+    "scope": "Frontrooms + Level 0-100 + Popular Enigmatic/Sub/Negative Levels",
+    "counts": {
+      "levels": 110,
+      "entities": 0,
+      "items": 1
+    }
+  },
+  "levels": [
+    {
+      "id": "frontrooms",
+      "title": "Frontrooms",
+      "pageid": 0,
+      "sub_type": "Origin_Hub",
+      "survival_difficulty": "Class 0 (Safe)",
+      "is_solitude": false,
+      "optimization_mode": "outdoor_chunk_100m",
+      "audio_profile": {
+        "mode": "ambient_urban",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 0"
+      ],
+      "summary": "現実世界の狭い街区として実装された起点エリア。特定の壁・床へのNoclip操作でLevel 0へ移行する。",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/The_Frontrooms",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_0",
+      "title": "Level 0",
+      "pageid": 83,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1",
+      "is_solitude": true,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 1",
+        "Level 2",
+        "Level 0.01",
+        "Level 14",
+        "Level 0.1",
+        "Level 0.66",
+        "Level 13"
+      ],
+      "summary": "NOTOC - Level 0 is the first level of the Backrooms, and the first location that most entering from baseline reality will find themselves in. 1. Description - Level 0 is an expansive non-Euclidean space resembling the back rooms of a dated retail outlet. The level is known most prominently for its disorienting layout and distinct yellowed wallpaper. All rooms in Level 0 share the same superficial ...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/3/3f/Major_Explorer_Group_logo.png/revision/latest?cb=20250331183246"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_0",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_1",
+      "title": "Level 1",
+      "pageid": 90,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "The Void",
+        "The Hub",
+        "Level 0",
+        "Level 13",
+        "Level 150",
+        "Level 2",
+        "Level 188",
+        "Level 4",
+        "Level 960",
+        "Level 11"
+      ],
+      "summary": "NOTOC Description FFFFFF - Level 1 is one of the only levels wanderers can enter directly from Earth and is a fusion of enclosed parking lots and warehouses. Level 1 extends upwards for 2,000 floors, with each floor covering around 650,000 square kilometers and having a ceiling height of 4 to 5 meters. The most distinguishing feature of this level is its bare concrete walls, cracks and fractures r...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/2/20/SolusLevel1.jpg/revision/latest?cb=20261020101506",
+        "https://static.wikia.nocookie.net/backrooms/images/7/77/Level1Again.webp/revision/latest?cb=20261020103005",
+        "https://static.wikia.nocookie.net/backrooms/images/6/6e/Level_1_Rewrite.jpg/revision/latest?cb=20240224130148",
+        "https://static.wikia.nocookie.net/backrooms/images/1/1d/SolusMaintHall.jpg/revision/latest?cb=20261020101636"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_1",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_10",
+      "title": "Level 10",
+      "pageid": 80442,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1",
+      "is_solitude": false,
+      "optimization_mode": "outdoor_chunk_100m",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 11",
+        "Level 9",
+        "Level 35",
+        "Level 83",
+        "Level 487",
+        "Level 10.99"
+      ],
+      "summary": "NOTOC Notice This file is pending an update after a recent interview with an anonymous woman who lived in Level 10 for a time with her family as a child. While the updates are pending approval, excerpts from the interview have been placed throughout the article to provide more up-to-date context. 1. Description - Level 10 is an expansive pasture of wheat and barley fields stretching endlessly in a...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_10",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_100",
+      "title": "Level 100",
+      "pageid": 1356,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1",
+      "is_solitude": true,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level -100",
+        "Level 79",
+        "Level 99",
+        "Level 91",
+        "Level 666",
+        "Level 4",
+        "Level 264",
+        "Level 85",
+        "Level 833",
+        "Level 255",
+        "Level 989.3",
+        "Level 101",
+        "Level 110",
+        "Level 158",
+        "Level 178",
+        "Level 908",
+        "Level 989",
+        "Level 990",
+        "The Void"
+      ],
+      "summary": "The waves found in Level 100 . Threat Index: Class 1 » Safe » Unstable » Silence Threat Index: Class 1 » Safe » Unstable » Silence Description - Level 100 , colloquially known as either \"Soundless Solitude\" or \"Silent Sounds\" comprises a narrow, waterlocked shoal of smooth sand stretching infinitely from east to west, being bordered at the northern and southern ends by an everlasting warm ocean; i...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/0/00/Review.png/revision/latest?cb=20230821063858",
+        "https://static.wikia.nocookie.net/backrooms/images/2/2b/SunsetResort.png/revision/latest?cb=20230820023819",
+        "https://static.wikia.nocookie.net/backrooms/images/6/69/SunsetResort1.png/revision/latest?cb=20230820025955",
+        "https://static.wikia.nocookie.net/backrooms/images/0/07/Liminal_Remodeling_Co.png/revision/latest?cb=20221031073956",
+        "https://static.wikia.nocookie.net/backrooms/images/3/3a/Level100New4.webp/revision/latest?cb=20230220143511",
+        "https://static.wikia.nocookie.net/backrooms/images/b/bf/Level100New5.webp/revision/latest?cb=20230220143513"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_100",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_11",
+      "title": "Level 11",
+      "pageid": 799,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2e - Environmental",
+      "is_solitude": true,
+      "optimization_mode": "outdoor_chunk_100m",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 10",
+        "Level 84",
+        "Level 12",
+        "Level 2",
+        "Level 75",
+        "Level 690"
+      ],
+      "summary": "1. Description - Level 11 is a sprawling, desolate cityscape of monolithic buildings and winding asphalt roads. The architectural design of the structures in Level 11 varies moderately; while they often resemble the style of the modern urban East, explorations further into the level have revealed increasingly differing designs. Further alterations appear to be correlated with distance; the farther...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_11",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_12",
+      "title": "Level 12",
+      "pageid": 76530,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [],
+      "summary": "Dictionary Definitions from Oxford Languages · Learn More flesh /fleʃ/ *noun* meat. \"they were eating human flesh\" A man who believed he was fearless had nothing to fear except for his own self-doubt. In lieu of a typical mindset, he reassured himself that nothing, and no one, may ever touch him. Despite this stouthearted manner of thinking—spirited, valiant, and the sort—he refused to accept that...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_12",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_13",
+      "title": "Level 13",
+      "pageid": 66692,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 0",
+        "Level 4",
+        "Level 5",
+        "Level 7",
+        "Level 9",
+        "Level 10.99",
+        "Level 11",
+        "Level 12",
+        "Level 35",
+        "Level 671",
+        "Level 14",
+        "Level 45",
+        "Level 1",
+        "Level 909",
+        "Level 996",
+        "Level 6.5",
+        "The Void",
+        "Level 173",
+        "Level 21"
+      ],
+      "summary": "MS-DOS Prompt Mıɔɹosoft (R) Wopuᴉws 95 ㅤㅤ(C) ʇɥƃᴉɹdoƆ Microsoft ¿Ɔoɹd 1981 - 7777. C:\\WINDOWS>command.com /? Stars a new copy of the Windows Command Interpreter. COMMAND [[drive:]path] [device] [/E:nnnnn] [/L:nnnn] [/U:nnn] [/P] [/MSG] [drive:]pathㅤㅤㅤㅤ Specifies the directory containing COMMAND.COM. devicesㅤㅤㅤㅤㅤㅤSpecifies the device to use for command input and output. /E:nnnnnㅤㅤㅤㅤㅤ Sets the initi...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/4/41/Level-13-initial-preview.png/revision/latest?cb=20221027073516",
+        "https://static.wikia.nocookie.net/backrooms/images/a/ab/MS-DOS_PROMPT.png/revision/latest?cb=20221007102911",
+        "https://static.wikia.nocookie.net/backrooms/images/6/63/MS-DOS_CUSTOM.png/revision/latest?cb=20221007105227",
+        "https://static.wikia.nocookie.net/backrooms/images/d/de/Level-13-heading1.png/revision/latest?cb=20221029111434",
+        "https://static.wikia.nocookie.net/backrooms/images/c/c3/Level-13-1934.png/revision/latest?cb=20221002043216",
+        "https://static.wikia.nocookie.net/backrooms/images/e/ef/Level-13.png/revision/latest?cb=20220912093813",
+        "https://static.wikia.nocookie.net/backrooms/images/c/c5/Level-13-2.png/revision/latest?cb=20220926020003",
+        "https://static.wikia.nocookie.net/backrooms/images/5/53/Metaphorical_Island.png/revision/latest?cb=20221019100317",
+        "https://static.wikia.nocookie.net/backrooms/images/b/b1/Level-13-Entity.png/revision/latest?cb=20221026093738"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_13",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_14",
+      "title": "Level 14",
+      "pageid": 105118,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 4",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 0",
+        "Level 13",
+        "Level 15",
+        "Level 16",
+        "Level 130",
+        "Level 39",
+        "Level 0.01",
+        "Level 777",
+        "Level 268",
+        "Level 14.1",
+        "Level 4.4"
+      ],
+      "summary": "What's behind that door? Survival Difficulty: Class 4 》Unsafe 》Unstable 》Dangerous Entities and Hazards Level 14 is the 15th level of the Backrooms. > Once a thriving level filled with colonies and supplies, now abandoned. The people? Gone. Without a trace. Description: - Level 14 takes the form of a regular, well-equipped hospital comprising infinitely segmented areas that contain shadowy hallway...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/9/99/Level14picture2.png/revision/latest?cb=20230713072312"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_14",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_15",
+      "title": "Level 15",
+      "pageid": 1010,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1e - Environmental",
+      "is_solitude": false,
+      "optimization_mode": "outdoor_chunk_100m",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 0",
+        "Level 799",
+        "Level 7",
+        "Level 10.5",
+        "Level 18",
+        "Level 5",
+        "Level 10",
+        "Level 3",
+        "Level 14",
+        "Level 14.1",
+        "Level 24",
+        "Level 280",
+        "Level 594.1",
+        "Level 0.8",
+        "Level 4",
+        "Level 11",
+        "Level 16",
+        "Level 6",
+        "Level 69",
+        "Level 80",
+        "Level 339",
+        "Level 443",
+        "Level 818",
+        "Level 990",
+        "Level 32",
+        "Level 48",
+        "Level 427",
+        "Level 398",
+        "Level 504"
+      ],
+      "summary": "- Level 15 is the 16th level of the Backrooms. 1. Description - Level 15 , informally known as the \" Futuristic Halls ,\" is a labyrinthine structure made of futuristic corridors. These corridors generally exude a \"futuristic\" aesthetic due to the association travelers create between Level 15 and the archetype of an innovative utopia that circulates in The Frontrooms. The interior features white wa...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/f/f7/Level15-2.jpg/revision/latest?cb=20231012034032"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_15",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_16",
+      "title": "Level 16",
+      "pageid": 69641,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 15",
+        "Level 14",
+        "Level 14.1",
+        "Level 32",
+        "Level 41",
+        "Level 123",
+        "Level 256",
+        "Level 405",
+        "Level 974",
+        "Level 0.7",
+        "Level 3",
+        "Level 4",
+        "Level 17",
+        "Level 98",
+        "Level 144",
+        "Level 223",
+        "Level 268",
+        "Level 777"
+      ],
+      "summary": "NOTOC - Level 16 is the 17th level of the Backrooms. 1. > Description: - Level 16 , often known as \" J. Barry Mental Asylum \", is an abandoned mental institution that expands to indeterminate measurements and duplicates indefinitely. A person traveling an extensive distance from their previous building may notice that the asylum replicates the layout of the primary structure, adhering to and inter...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/9/90/Level16.webp/revision/latest?cb=20231023153832",
+        "https://static.wikia.nocookie.net/backrooms/images/6/6c/Level16-1.webp/revision/latest?cb=20231023154029",
+        "https://static.wikia.nocookie.net/backrooms/images/f/ff/Level16-2.webp/revision/latest?cb=20231023155340"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_16",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_17",
+      "title": "Level 17",
+      "pageid": 1412,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 7.5",
+        "Level 10",
+        "Level 335",
+        "Level 966",
+        "Level 6.78",
+        "Level 16",
+        "Level 54",
+        "Level 91",
+        "Level 41",
+        "Level 208",
+        "Level 298",
+        "Level 647",
+        "Level 2",
+        "Level 7",
+        "Level 18",
+        "Level 18.66",
+        "Level 20",
+        "Level 27",
+        "Level 37.6",
+        "Level 245"
+      ],
+      "summary": "1. Description Sailing across the many seas, Level 17 comprises a complex of halls with architecture mimicking the interior of a mid-20th century naval vessel. The floor, along with the walls and ceilings are constructed from stainless steel, painted differently. The ship is aged, and it is appearant in many aspects: the decks abraded from the boots to once walk over it, the pipes drip from years ...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_17",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_18",
+      "title": "Level 18",
+      "pageid": 21915,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 3Ψ - Psychological",
+      "is_solitude": true,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 17",
+        "Level 18.1",
+        "Level 18.66",
+        "Level 897",
+        "Level 9.6",
+        "Level 19",
+        "Level 492",
+        "Level 956",
+        "Level 56",
+        "Level Fun",
+        "Level 82",
+        "Level 18.85",
+        "Level 99",
+        "Level 393",
+        "Level 336",
+        "Level 356",
+        "Level 9.1"
+      ],
+      "summary": "- Level 18 presents itself in a unique form to each wanderer. It's similar to a normal kindergarten and also appears as a lifeless, eerie recreation of the wanderer's memories from early adolescence. The environments at this level vary greatly, as one would expect, manifesting either indoors or outdoors and representing various places from the wanderer's past, with major examples including homes, ...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/d/d8/LiminalitySimpleStatic.gif/revision/latest?cb=20230116235657"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_18",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_19",
+      "title": "Level 19",
+      "pageid": 56015,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 0.7",
+        "Level 18",
+        "Level 20",
+        "Level 18.85",
+        "Level 25",
+        "Level 28",
+        "Level 27",
+        "Level 30",
+        "Level 37",
+        "Level 19.2",
+        "Level 21",
+        "Level 332",
+        "Level 366"
+      ],
+      "summary": "NOTOC - Level 19 is the 20th level of the Backrooms. 1. Overview } } - Level 19 , commonly referred to as The Abyss Inn , is an expansive complex of interconnected rooms and hallways resembling a 90s suburban hotel. The hotel appears left behind at a certain point, with noticeable sections remaining shadow-cast or entirely pitch-black, with many reporting an unsettlingly dark atmosphere. The carpe...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_19",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_2",
+      "title": "Level 2",
+      "pageid": 120,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 0",
+        "Level 1",
+        "The Void",
+        "Level 5",
+        "Level 8",
+        "Level 11",
+        "Level 17",
+        "Level 41",
+        "Level 111",
+        "Level 138",
+        "Level 154",
+        "Level 264",
+        "Level 3",
+        "Level 4",
+        "Level 27",
+        "Level 34",
+        "Level 699"
+      ],
+      "summary": "Recorded ambiance of the level. Although the vast majority of wanderers report entering the Backrooms in Level 0 , and occasionally Level 1 , there are various accounts of Level 2 being initially entered by wanderers. At present, it is the furthest-known level directly accessible from baseline reality. 1. ⤳ Description - Level 2 is a vast network of interconnected utility tunnels, maintenance shaf...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/2/20/Darkkhallway.jpg/revision/latest?cb=20240419135415",
+        "https://static.wikia.nocookie.net/backrooms/images/1/17/Hallway1700s.png/revision/latest?cb=20240418130529",
+        "https://static.wikia.nocookie.net/backrooms/images/d/d7/Johnlennon.png/revision/latest?cb=20240419133548",
+        "https://static.wikia.nocookie.net/backrooms/images/0/02/Ewwtf%21%21%21.jpg/revision/latest?cb=20240420163525",
+        "https://static.wikia.nocookie.net/backrooms/images/f/fe/Cleanlevel2.jpg/revision/latest?cb=20240420163804",
+        "https://static.wikia.nocookie.net/backrooms/images/f/f2/Twistinglevel2.jpg/revision/latest?cb=20240420164459"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_2",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_20",
+      "title": "Level 20",
+      "pageid": 1262,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1e - Environmental",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 19",
+        "Level 21",
+        "Level 10.4",
+        "Level 17",
+        "Level 20.1",
+        "Level 306",
+        "Level 9",
+        "Level 22",
+        "Level 59",
+        "Level 412",
+        "Level 910",
+        "The Void",
+        "Level 77"
+      ],
+      "summary": "- Level 20 is the 21st level of the Backrooms. 1. Description - Level 20 appears to be a modern, well-ventilated depot that stretches endlessly in all directions. Boxes containing many supplies, along with forklifts, pallet jacks, hand trucks, ladders, stepping stools, service carts, and similar warehouse equipment, are very frequently interspersed throughout the level, though sections devoid of s...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/0/05/20_Aud..mp3/revision/latest?cb=20230107094029",
+        "https://static.wikia.nocookie.net/backrooms/images/9/9f/Level_20_New_Diary_2.webp/revision/latest?cb=20230107193236",
+        "https://static.wikia.nocookie.net/backrooms/images/4/41/Level_20_New_Diary_3.jpg/revision/latest?cb=20230107201723",
+        "https://static.wikia.nocookie.net/backrooms/images/1/10/Level_20_SD.jpg/revision/latest?cb=20230106211632",
+        "https://static.wikia.nocookie.net/backrooms/images/9/96/Level_20_-2.jpg/revision/latest?cb=20221025073005"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_20",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_21",
+      "title": "Level 21",
+      "pageid": 87687,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 0",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 0",
+        "Level 20",
+        "Level 4",
+        "Level 37",
+        "Level 19",
+        "Level 11",
+        "Level 9",
+        "Level 6",
+        "Level 13",
+        "Level 130",
+        "Level 216",
+        "Level 8.5",
+        "Level 18.66",
+        "Level 555",
+        "Level 894",
+        "Level 510",
+        "Level 157",
+        "Level 201",
+        "Level 500",
+        "Level 25",
+        "Level 22",
+        "Level 8.3",
+        "Level 363",
+        "Level 65",
+        "Level 405",
+        "Level 187",
+        "Level 483",
+        "Level 898",
+        "Level 156"
+      ],
+      "summary": "NOTOC - Level 21 , also known as \"Numbered Doors\" , is the current 22nd level found in the Backrooms. 1. Description } } - Level 21 , also known as \"Numbered Doors\" by wanderers, is an expansive, currently undetermined-sized labyrinthine complex made up of a vast array of hallways, corridors, rooms, and many others alike. The most notable consistency that can be observed across Level 21 's appeara...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/f/f6/21-5.png/revision/latest?cb=20230324020212"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_21",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_22",
+      "title": "Level 22",
+      "pageid": 169981,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [],
+      "summary": "Merry-go-mash! Gush. Fed with intolerance to skies, it ached him so badly to contemplate them. Trying to expose its ooze, oozed with precaution and kissed the floor with white-blue-purple spray in his face. Ugly dots. Mounting the leaves. A carousel, the coldness of its turning shaped the crunch of dead weight. First, metal poles shaved from attention, then, horses in star-like clothing. Even agai...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/8/8b/Black_and_white_circus_.jpg/revision/latest?cb=20260731024532"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_22",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_23",
+      "title": "Level 23",
+      "pageid": 126622,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [],
+      "summary": "User:SherlsF/level23.css Content Warning: This page contains content that may not be suitable for all readers , namely visual depictions of blood. Click this newspaper to zoom into it! ⮯ Scroll down! Wenn der Prophet redet in dem Namen des HERRN, und es wird nichts daraus und es kommt nicht, das ist das Wort, das der HERR nicht geredet hat, darum *scheue* dich nicht vor ihm. — 5 Mose 18:22 If what...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/3/31/Warningaustria.png/revision/latest?cb=20250112160656",
+        "https://static.wikia.nocookie.net/backrooms/images/a/af/Vienna_poster.jpg/revision/latest?cb=20241115102120",
+        "https://static.wikia.nocookie.net/backrooms/images/2/2e/Greatwar.png/revision/latest?cb=20241006044050",
+        "https://static.wikia.nocookie.net/backrooms/images/d/d4/Greatwar2.png/revision/latest?cb=20241006044103",
+        "https://static.wikia.nocookie.net/backrooms/images/8/86/Greatwar3.png/revision/latest?cb=20241006044114",
+        "https://static.wikia.nocookie.net/backrooms/images/0/0e/Greatwar4.png/revision/latest?cb=20241006044124",
+        "https://static.wikia.nocookie.net/backrooms/images/1/1f/Blood_splatter.png/revision/latest?cb=20250113141831",
+        "https://static.wikia.nocookie.net/backrooms/images/3/3b/Vienna.png/revision/latest?cb=20241006045629",
+        "https://static.wikia.nocookie.net/backrooms/images/9/95/14416769150_50462d300f_o.jpg/revision/latest?cb=20241011142554",
+        "https://static.wikia.nocookie.net/backrooms/images/c/c7/2135377540_25b7c6d15e_b.jpg/revision/latest?cb=20241011142517",
+        "https://static.wikia.nocookie.net/backrooms/images/a/a9/America.jpg/revision/latest?cb=20260719115432",
+        "https://static.wikia.nocookie.net/backrooms/images/f/f8/Europe1.jpg/revision/latest?cb=20241012111557",
+        "https://static.wikia.nocookie.net/backrooms/images/3/35/Asia.jpg/revision/latest?cb=20241012111619",
+        "https://static.wikia.nocookie.net/backrooms/images/8/84/Africa.jpg/revision/latest?cb=20241012111912",
+        "https://static.wikia.nocookie.net/backrooms/images/4/49/Asdasdadsa.jpg/revision/latest?cb=20250109100552",
+        "https://static.wikia.nocookie.net/backrooms/images/8/84/Austria_%281%29.jpg/revision/latest?cb=20241024105139",
+        "https://static.wikia.nocookie.net/backrooms/images/5/54/Vienna_buildings_21.jpg/revision/latest?cb=20241027015835",
+        "https://static.wikia.nocookie.net/backrooms/images/7/75/4324365695_aa8621c35f_o.jpg/revision/latest?cb=20241024105501",
+        "https://static.wikia.nocookie.net/backrooms/images/2/23/21068766415_656e05104e_k.jpg/revision/latest?cb=20241027015709",
+        "https://static.wikia.nocookie.net/backrooms/images/8/86/794499112_c1d8d4367c_o.jpg/revision/latest?cb=20241024110230",
+        "https://static.wikia.nocookie.net/backrooms/images/c/c3/Vienna_buildings_26.jpg/revision/latest?cb=20250112152914"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_23",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_24",
+      "title": "Level 24",
+      "pageid": 1946,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 5e - Environmental",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 117",
+        "Level 15",
+        "Level 23",
+        "Level 140",
+        "Level 25",
+        "Level 700",
+        "Level 968"
+      ],
+      "summary": "1. > Description - Level 24 is an infinitely desolate, liminal, dark, alien-like landscape. Rapid shifts and changes ensue chaos to the level. Furthermore, the level seemingly follows Euclidean geometry but completely ignores all known science, making Level 24 unpredictable and dangerous. The level is seemingly a collection of alien and extraterrestrial landscapes enticed together, stretching on s...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/3/3d/Level.png/revision/latest?cb=20221111215903",
+        "https://static.wikia.nocookie.net/backrooms/images/8/8a/Space_Nebula.jpg/revision/latest?cb=20230422052310",
+        "https://static.wikia.nocookie.net/backrooms/images/3/3c/Level_24_%28gaseous%29.jpg/revision/latest?cb=20230429120424",
+        "https://static.wikia.nocookie.net/backrooms/images/5/5c/Level_24_%28gaseous_2%29.jpg/revision/latest?cb=20230506090748",
+        "https://static.wikia.nocookie.net/backrooms/images/d/d8/LiminalitySimpleStatic.gif/revision/latest?cb=20230116235657"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_24",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_25",
+      "title": "Level 25",
+      "pageid": 91258,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 27",
+        "Level 10",
+        "Level 0",
+        "Level 3",
+        "Level 5",
+        "Level 6",
+        "Level 9",
+        "Level 11",
+        "Level 12",
+        "Level 19",
+        "Level 21",
+        "Level 24",
+        "Level 26",
+        "Level 29",
+        "Level 37",
+        "Level 41",
+        "Level 50",
+        "Level 87",
+        "Level 89",
+        "Level 90",
+        "The End",
+        "Level 13",
+        "Level 4",
+        "Level Fun",
+        "Level 40"
+      ],
+      "summary": "What you could hear in Level 25 . Here is Level 25 . This is an image I took a long time ago that I just found while looking under the arcade machines. - Level 25 is the 26th level of The Backrooms . - Level 25 seems to represent an abandoned and dusty video game arcade, filled with arcade machines, if that wasn't obvious enough. Every arcade game requires a quarter to start. If you ever run out o...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/6/6a/Level25-189.png/revision/latest?cb=20260519121721",
+        "https://static.wikia.nocookie.net/backrooms/images/3/3b/Level25.png/revision/latest?cb=20260514202519"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_25",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_26",
+      "title": "Level 26",
+      "pageid": 87732,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 3",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 8.5",
+        "Level 261",
+        "Level 27",
+        "Level 193",
+        "Level 25",
+        "Level 31",
+        "Level 35"
+      ],
+      "summary": "- Level 26 is the 27th level of the Backrooms. 1. Description - Level 26 manifests as an expansive conglomeration of apartments spread across an indeterminate distance. The architechture of the level primarily consists of narrow, winding hallways linking various interconnected chambers. The geometry of Level 26 is commonly described to be disorderly and confusing, often carrying redundant passagew...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_26",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_27",
+      "title": "Level 27",
+      "pageid": 2015,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 0",
+        "Level 0.7",
+        "Level 17",
+        "Level 26",
+        "Level 39",
+        "Level 192",
+        "Level 387"
+      ],
+      "summary": "1. Description - Level 27 , commonly referred to as \"Ligneous Desolation\" or more casually \"The Woodrooms\", is a presumably endless, labyrinthine complex of wooden rooms and hallways, varying minutely in design. Upon entering the level, one may find it difficult to maintain an accurate sense of direction due to the nature of its layout; its winding corridors often cause confusion and disorientatio...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_27",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_28",
+      "title": "Level 28",
+      "pageid": 97673,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 27",
+        "Level 14",
+        "Level 799",
+        "Level 0.01",
+        "Level 1",
+        "Level 4",
+        "Level 8",
+        "Level 37.9",
+        "Level 80",
+        "Level 9.6",
+        "Level 25",
+        "Level 154",
+        "Level 483",
+        "Level 5",
+        "Level 12",
+        "Level 19",
+        "Level 20",
+        "Level 42",
+        "Level 9",
+        "Level 38",
+        "Level 597",
+        "Level 39",
+        "Level 398",
+        "Level 0.7",
+        "Level 27.3",
+        "Level 90",
+        "Level 10",
+        "Level 0"
+      ],
+      "summary": "You wake up. Your body aches. You begin to get up. You look around. You slept while exploring Level 27. You see a ladder hanging above you. ... NOTOC User:TheBackroomsMapMaker/28A.css Level 28: \"The Attic\" e6d2b7e6d2b7 - Level 28 is the 29th level of The Backrooms and seems to be connected to Level 27 . Level 28 is not to be confused with The Attic. 1. ✦ Description - Level 28 , also known as \"The...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/a/ae/1130-2.gif/revision/latest?cb=20240304221236",
+        "https://static.wikia.nocookie.net/backrooms/images/0/0f/Vignette.png/revision/latest?cb=20230309223138",
+        "https://static.wikia.nocookie.net/backrooms/images/2/23/27_to_28_connection.png/revision/latest?cb=20260528153910"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_28",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_29",
+      "title": "Level 29",
+      "pageid": 40028,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 1",
+        "Level 6",
+        "Level 28",
+        "Level 30",
+        "Level 9"
+      ],
+      "summary": "User:MaxCommonXD/level.css - Notice: has been designated Impresario Class Priority. If you have suddenly been assigned to , please read the following document. - Reason: High missing cases of people and personnel due to the nature of - Protocol: Follow the E.N.D Protocol 1. E nter a group with no less than four individuals. 1. N o personnel shall enter without a rope to track one's footsteps. 1. D...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/3/3f/Major_Explorer_Group_logo.png/revision/latest?cb=20250331183246"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_29",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_3",
+      "title": "Level 3",
+      "pageid": 126375,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 0",
+        "Level 1",
+        "Level 2",
+        "Level 5",
+        "Level 19",
+        "Level 23",
+        "Level 92",
+        "Level 4",
+        "Level 6",
+        "Level 11"
+      ],
+      "summary": "While there are numerous reports of wanderers initially noclipping into Level 0, Level 1, and occasionally Level 2, there are no confirmed accounts of first entering the Backrooms in Level 3 . At present, it is the lowest-known level that is entirely inaccessible from baseline reality. 1. Description - Level 3 is a sprawling complex of derelict maintenance halls and utility tunnels fitted with ele...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_3",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_30",
+      "title": "Level 30",
+      "pageid": 26557,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 3",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 37.1",
+        "Level 37.9",
+        "Level 330",
+        "Level 4",
+        "Level 84",
+        "Level 37",
+        "Level 37.5",
+        "Level 45",
+        "Level 597",
+        "Level 19"
+      ],
+      "summary": "1. Description - Level 30 , also referred to as \"Aquatic Cycles\", is an extensive pool complex consisting of segmented, interconnected aquatic sections that vary in safety. The complex is divided in five distinct areas, each with varying layouts, which are connected linearly; however, two of the stations were progressively interdicted from the other ones with piles of random debris, as one of them...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_30",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_31",
+      "title": "Level 31",
+      "pageid": 98642,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 0",
+        "Level 25",
+        "Level 40",
+        "Level 3",
+        "Level 6",
+        "Level 26",
+        "Level 27",
+        "Level 28",
+        "Level 30",
+        "Level 9",
+        "Level 10",
+        "Level 11"
+      ],
+      "summary": "User:WindXD/level.css - Level 31 , labelled as \"Roller Rink\" is the 32nd Level of The Backrooms. *Description - Level 31 , also known as \" Roller Rink ,\" resembles a 1990s-style roller rink that spans hundreds of miles—rumored to be infinite in extent, even though the exact level size is still unclear owing to individual non-Euclidean space that might result in persons proceeding in a loop. This s...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_31",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_32",
+      "title": "Level 32",
+      "pageid": 80520,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 0",
+        "Level 11",
+        "Level 15"
+      ],
+      "summary": "- I think I’ve just discovered a new level. It certainly doesn’t look like anything else in the M.E.G.’s database—or anything I’ve ever seen. - Looks like the first available slot is Level 32, so that’s what I’ll call this place. That would make this… the 32nd 33rd level. I Keep forgetting about Level 0 screwing up the whole numbering system. - Anyway, it looks like a bunch of big cities. Kind of ...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_32",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_33",
+      "title": "Level 33",
+      "pageid": 34790,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 330",
+        "Level 42"
+      ],
+      "summary": "User:WindXD/level.css > *Liminal Retail* It was late at night, and no one in sight. An empty seat with a faint light shines in the distance. The cold air flow pass and the light seeping into the dark corner. The silence drowned out the music emanating from nowhere. The planter cut across and railing serve no purpose. The closed store line up, only emptyness in the surrounding area. The setting evo...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/9/95/Level-20.jpg/revision/latest?cb=20221112114954",
+        "https://static.wikia.nocookie.net/backrooms/images/4/41/Level-20-1.jpg/revision/latest?cb=20220618135521",
+        "https://static.wikia.nocookie.net/backrooms/images/1/1d/Level-20-2.jpg/revision/latest?cb=20221113041505",
+        "https://static.wikia.nocookie.net/backrooms/images/9/9e/Level-20-5.png/revision/latest?cb=20221113073556",
+        "https://static.wikia.nocookie.net/backrooms/images/c/c8/Level-20-6.png/revision/latest?cb=20220407160935",
+        "https://static.wikia.nocookie.net/backrooms/images/3/3a/Level-20-7.png/revision/latest?cb=20230204065915",
+        "https://static.wikia.nocookie.net/backrooms/images/6/60/Level-20-8.jpg/revision/latest?cb=20221126051520"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_33",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_34",
+      "title": "Level 34",
+      "pageid": 26688,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 5e - Environmental",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 3",
+        "Level 11",
+        "Level 84",
+        "Level 9.9",
+        "Level 37.9",
+        "Level 37.6"
+      ],
+      "summary": "*\"The Sewers: teeming with danger, a cesspool of infection. A dungeon of biohazardous terror where nothing is safe. The industrial backwaters of The Backrooms, abandoned—yet very much alive.\"* - Maeve Laurier, Backroom Colonists 1. I. Description - Level 34 , colloquially known as The Sewers , is an expansive sewer complex notable for its abundance of infections and diseases. A breeding ground for...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_34",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_35",
+      "title": "Level 35",
+      "pageid": 64993,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1",
+      "is_solitude": false,
+      "optimization_mode": "outdoor_chunk_100m",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 10",
+        "Level 34",
+        "Level 39",
+        "Level 290",
+        "Level 48",
+        "Level 138",
+        "Level 13",
+        "Level 36",
+        "Level 41",
+        "Level 72",
+        "Level 85",
+        "Level 130"
+      ],
+      "summary": "> As I waltz on the thick snow encapsulating what may be beneath, the breathtaking view of several blizzard winds the size of mountains envelops effortlessly through the desolate, condemned expanse of infinite fields. - Level 35 is the 36th level of the Backrooms. The first encounter of the level was thought to have transpired in c. 1967, although it may have occurred in the much more distant past...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/b/b9/Level_35B.jpg/revision/latest?cb=20221009035042",
+        "https://static.wikia.nocookie.net/backrooms/images/a/a0/Level_35f.png/revision/latest?cb=20220819104028",
+        "https://static.wikia.nocookie.net/backrooms/images/c/c7/Level_35_Satellite.png/revision/latest?cb=20220828063858",
+        "https://static.wikia.nocookie.net/backrooms/images/7/7c/Level_35_River.png/revision/latest?cb=20221210030055",
+        "https://static.wikia.nocookie.net/backrooms/images/d/dd/Level_35_Trees.png/revision/latest?cb=20220926134155"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_35",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_36",
+      "title": "Level 36",
+      "pageid": 97009,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "The End",
+        "The Metro",
+        "Level 35",
+        "Level 597",
+        "Level 188.2",
+        "Level 37",
+        "Level 42"
+      ],
+      "summary": "User:WindXD/level.css > As I wandered through the seemingly quiet terminal, I felt the sensation of emptiness. I can only go so far before encountering clothing laying all over the chairs, and luggage seemingly abandoned on the carpeted floors. The stores were closed, the lights were flickering, and the white noise was creeping up to my ears. It is like everyone just vanished out of thin air. . . ...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/d/d3/DesolateTerminal.jpg/revision/latest?cb=20230718175305",
+        "https://static.wikia.nocookie.net/backrooms/images/c/c9/TerminalGlitch.png/revision/latest?cb=20220302095456",
+        "https://static.wikia.nocookie.net/backrooms/images/e/ed/Level36.png/revision/latest?cb=20230721141818",
+        "https://static.wikia.nocookie.net/backrooms/images/6/61/Level_infity_photo.jpg/revision/latest?cb=20201222160601"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_36",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_37",
+      "title": "Level 37",
+      "pageid": 37158,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1",
+      "is_solitude": true,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "silent",
+        "strict_silence": true,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 7",
+        "Level 46",
+        "Level 54",
+        "Level 30",
+        "Level 37.1",
+        "Level 330",
+        "Level 4",
+        "Level 43",
+        "Level 34"
+      ],
+      "summary": "1. Description - Level 37 , commonly referred to as the Poolrooms, is an expansive complex of interconnected rooms and corridors submerged in undulating, lukewarm water. Each area of the level varies greatly in size and structure, ranging from uniform pools and hallways to more open, abnormally shaped areas. The majority of surfaces in the level are composed of white, ceramic tiling, with the only...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_37",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_38",
+      "title": "Level 38",
+      "pageid": 68263,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 37",
+        "Level 37.2",
+        "Level 37.9",
+        "Level 91",
+        "Level 109",
+        "Level 22",
+        "Level 7",
+        "Level 994",
+        "Level 9.6",
+        "Level 39",
+        "Level 995",
+        "Level 306"
+      ],
+      "summary": "User:TheBackroomsMapMaker/MASSIVE_font_pack.css LEVEL 38 \"Air Pollution\" - Level 38 , colloquially referred to as The Polluted Orange or Air Pollution , is an environmentally hazardous level notable for its terrible air quality. It is also known as the 39th level of The Backrooms. 1. Description - Level 38 is a finite town surrounded by water, featuring a mix of residential buildings, open plazas,...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/9/9a/38hotel.png/revision/latest?cb=20260804180033",
+        "https://static.wikia.nocookie.net/backrooms/images/e/ee/Screenshot_2026-08-04_190325.png/revision/latest?cb=20260804180340"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_38",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_39",
+      "title": "Level 39",
+      "pageid": 47681,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 3",
+      "is_solitude": false,
+      "optimization_mode": "outdoor_chunk_100m",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 0",
+        "Level 37",
+        "Level 38",
+        "Level 9.9",
+        "Level 399.1",
+        "Level 14",
+        "Level 27",
+        "Level 974",
+        "Level 690",
+        "Level 45",
+        "Level 35",
+        "Level 910"
+      ],
+      "summary": "1. Description Ambience of Level 39 . - Level 39 , otherwise known as \"Megalophobia\", is a seemingly normal town that consists of buildings that appear to have originated from the 1800s to the 1980s. Although possessing houses deriving from such a wide range, buildings in Level 39 's town appear uniform and well-preserved. They share indistinguishable features such as old 1920s wallpaper with a de...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_39",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_4",
+      "title": "Level 4",
+      "pageid": 61271,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "The Void",
+        "Level 2",
+        "Level 3",
+        "Level 30",
+        "Level 54",
+        "Level 16",
+        "Level 34",
+        "Level 37",
+        "Level 47",
+        "Level 5",
+        "Level 6",
+        "Level 197",
+        "Level 156",
+        "Level 14",
+        "Level 332"
+      ],
+      "summary": "\"The previous mono-yellow corridors were like hell compared to the tranquility of the never-ending offices. I slid my body against the wall, my head pressed against the cold window. I was at peace, for now.\" The ambience of Level 4. An image of Level 4 . 1. Description - Level 4 is a sprawling complex of barren rooms and cubicles, resembling a modern commercial office building. Most rooms in the l...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/f/f2/Level4RewriteBackground.gif/revision/latest?cb=20220615205823"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_4",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_40",
+      "title": "Level 40",
+      "pageid": 84303,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 4e - Environmental",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 555",
+        "Level 45",
+        "Level 630",
+        "Level 39",
+        "Level 138",
+        "Level 305",
+        "Level 550",
+        "Level 995",
+        "Level 41",
+        "Level 799"
+      ],
+      "summary": "[ The endless trees stretch toward the horizon. ] 1. Overview The trees stretched toward the horizon until it vanished beyond the edge of sight. Grey trees populate the land, each tree representing dread, grief and stillness after destruction. The fire took away the trees’ organic form, leaving the remains of what used to be life and stability driven into nothing but emptiness and waste. Grey ash ...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/c/c6/L40.jpeg/revision/latest?cb=20260913051822",
+        "https://static.wikia.nocookie.net/backrooms/images/e/ed/You_got_mail%21.png/revision/latest?cb=20220307071454"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_40",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_41",
+      "title": "Level 41",
+      "pageid": 86025,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "outdoor_chunk_100m",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 690",
+        "Level 10",
+        "Level 35",
+        "Level 3",
+        "Level 7",
+        "Level 630",
+        "Level 238",
+        "Level 11",
+        "Level 32",
+        "Level 85",
+        "Level 40",
+        "Level 151",
+        "Level 50",
+        "Level 91",
+        "Level 997",
+        "Level 4",
+        "Level 16",
+        "Level 42",
+        "Level 59",
+        "Level 2",
+        "Level 6",
+        "Level 14",
+        "Level 22",
+        "Level 9.6",
+        "Level 17",
+        "Level 207",
+        "Level 241"
+      ],
+      "summary": "User:WindXD/level.css - Level 41 is the 42nd demise of unfortunate reality. Description An irradiated array reminiscent of Earth, filled with abandoned man-made structures cluttered for kilometers from each other. The sun shines rarely, usually being obstructed by polluted clouds. Most canals and rivers are dried up because of the lower sea level. The surface of Level 41 is suffering from high amo...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/c/c1/Wastes2.jpg/revision/latest?cb=20230305153229",
+        "https://static.wikia.nocookie.net/backrooms/images/7/70/Wastes3.jpg/revision/latest?cb=20230305153252",
+        "https://static.wikia.nocookie.net/backrooms/images/0/02/41city.webp/revision/latest?cb=20230312155018",
+        "https://static.wikia.nocookie.net/backrooms/images/e/e1/The_outskirts.jpg/revision/latest?cb=20220730162133",
+        "https://static.wikia.nocookie.net/backrooms/images/3/31/Wastes1.gif/revision/latest?cb=20230305160014",
+        "https://static.wikia.nocookie.net/backrooms/images/b/bb/41field.webp/revision/latest?cb=20230312155737",
+        "https://static.wikia.nocookie.net/backrooms/images/7/7d/41coast.jpg/revision/latest?cb=20230312155950"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_41",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_42",
+      "title": "Level 42",
+      "pageid": 99448,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 2",
+        "Level 21",
+        "Level 188",
+        "The Void",
+        "Level 0",
+        "Level 5",
+        "Level 9",
+        "Level 11",
+        "Level 93",
+        "Level 99",
+        "Level 26",
+        "Level 27",
+        "Level 28",
+        "Level 33",
+        "Level 36",
+        "Level 41",
+        "Level 43"
+      ],
+      "summary": "User:MaxCommonXD/level.css > *Twilight Thoroughfare* These barren corridors lack customization or determining features that would make them memorable. The lack of identification renders one feel generic and universally relatable, contributing to the feeling of familiarity. The emptiness and simplicity of such environments stimulate a sense of nostalgia, like they are reminiscent of times or places...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/5/54/Level42-4.jpg/revision/latest?cb=20230830121716"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_42",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_43",
+      "title": "Level 43",
+      "pageid": 148613,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [],
+      "summary": "User:Fungrly Scrunkly/aquarium.css - Level 43 is the 44th level of the Backrooms. 1. Description - Level 43 is an expansive series of disorganized and confusing aquarium hallways, restaurants and small informative areas detailing the anomalous fish that reside within the level. In every room, through a layer of tempered glass, there is a view of the aquatic life living within the level. These fish...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_43",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_44",
+      "title": "Level 44",
+      "pageid": 82943,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2e - Environmental",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 0",
+        "Level 678",
+        "The Hub",
+        "Level 202.1",
+        "Level 202",
+        "Level 38.1",
+        "Level 8.5",
+        "Level 30",
+        "Level 37",
+        "Level 6",
+        "Level 634"
+      ],
+      "summary": "NOTOC ADE6F1 - Description - - Level 44 , commonly referred to as \"Under the Ice,\" consists of huge ice tunnels, which can range in length and size. The structure of the tunnels is also identical, with perfectly proportioned dimensions. Every surface, including the walls, ceilings, and even the floors, is made of solid ice. There haven't been any discoveries of any areas of Level 44 that were not ...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_44",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_45",
+      "title": "Level 45",
+      "pageid": 59671,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": true,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 8",
+        "The Hive",
+        "Level 13",
+        "Level 39",
+        "Level 9.6",
+        "Level 887",
+        "Level 216",
+        "Level 487",
+        "Level 110",
+        "Level 974",
+        "Level 7",
+        "Level 0",
+        "Level 46",
+        "Level 49"
+      ],
+      "summary": "* The Extraterrestrial Forest - Level 45 is the 46th level of the Backrooms. 1. Description 1. The Outdoors - Level 45 's outdoors consist of a never-ending, uniquely fashioned forest with convenient terrain attributed to tall trees, bodies of water, and diverse regions. The ambiance is coated in a blue mist, beyond bounds, and a small, quiet breeze can be felt breathing over the entire expanse. L...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_45",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_46",
+      "title": "Level 46",
+      "pageid": 100826,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 3",
+      "is_solitude": false,
+      "optimization_mode": "outdoor_chunk_100m",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 37",
+        "Level 370",
+        "Level 21",
+        "Level 45",
+        "Level 50",
+        "Level 369",
+        "Level 47",
+        "Level 1",
+        "Level 22",
+        "Level 671",
+        "Level 822",
+        "Level 207",
+        "Level 0",
+        "Level 209",
+        "Level 87"
+      ],
+      "summary": "- Level 46 is the 47th level of the Backrooms. 1. Description - Level 46 , often known as \"The Arabian Desert\" or \"Empty Quarter,\" is a vast, boundless expanse of desert reminiscence of the Arabian desert—one of the immense and harshest deserts in The Frontrooms. The level's size remains undetermined, and the attempts to prove the presumption have been ambiguous due to the hazardous circumstances....",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_46",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_47",
+      "title": "Level 47",
+      "pageid": 23703,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1e - Environmental",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 4",
+        "Level 4.3",
+        "Level 46",
+        "Level 0",
+        "Level 9.6",
+        "The Void"
+      ],
+      "summary": "Is the fact that Level 47 is the 48th level of The Backrooms known to you? 1. Description Did you know that Level 47 consists of a complex, interconnected set of empty drywall rooms filled with scattered half-walls, stairwells, and dead-ends? Are you aware that linear space is distorted in the level, making it virtually impossible to exactly navigate, or even return to one's previous position? Hav...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_47",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_48",
+      "title": "Level 48",
+      "pageid": 138701,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "outdoor_chunk_100m",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 0",
+        "The Hub"
+      ],
+      "summary": "NOTOC User:PortulTrademark/AmolDarkness.css LEVEL - 48 THREAT INDEX [ UNDER LOCKDOWN ] - Exit: Annexed [ ENTRANCE PROHIBITED ] - Environment: 4/5 [ PRESENCE OF LETHAL BIOHAZARDS ] - Entities: 0/5 [ UNFIT FOR ALL LIFE ] - Level 48 is the 49th level of the Backrooms. 1. Description - The Inconvenience Store (Level 48) consists of a boundless, labyrinthine complex of supermarket aisles, sharing many ...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/b/bf/Whitelockicon.png/revision/latest?cb=20240904232734",
+        "https://static.wikia.nocookie.net/backrooms/images/c/c2/Lock_Icon.webp/revision/latest?cb=20240313064423"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_48",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_49",
+      "title": "Level 49",
+      "pageid": 139161,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 0",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 0",
+        "The Void",
+        "Level 5",
+        "Level 1",
+        "Level 48",
+        "Level 6",
+        "Level 37.9",
+        "Level 4",
+        "Level 50"
+      ],
+      "summary": "User:阁楼福克123/Darkness.css NOEDITSECTION NOTOC INDEX Threat Index: Class 0 》Safe 》Unsecure 》Devoid of Entities - Level 49 , also known as Level ZH 0 , is the 50th level in the Backrooms and the first level originally documented in Chinese‌. 1. Description - Level 49 is theorized to be a non-Euclidean space composed of countless infinitely extending roads, sparse intersections, and scattered archite...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/2/26/Airplane-4252410_1280.webp/revision/latest?cb=20250405061846"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_49",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_5",
+      "title": "Level 5",
+      "pageid": 154,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 4",
+        "Level 14",
+        "Level 3",
+        "Level 2",
+        "Level 1",
+        "Level 17",
+        "Level 6",
+        "Level 13"
+      ],
+      "summary": "‹ Description | Overlook › Smooth, patterned carpets, golden-lined halls, and large ballrooms define the layout of Level 5, whose corridors—antique and luxuriously decorated—resemble a variety of upper-class interiors dated as early as the 1910s and as late as the 1940s. Differing interior styles from their respective eras may often cohabit or conflict with one another, resulting in haphazardly pl...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_5",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_50",
+      "title": "Level 50",
+      "pageid": 96275,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 3",
+      "is_solitude": false,
+      "optimization_mode": "outdoor_chunk_100m",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 79",
+        "Level 22",
+        "Level 416",
+        "Level 913",
+        "Level 52",
+        "Level 690",
+        "Level 224",
+        "Level 70",
+        "Level 311"
+      ],
+      "summary": "User:MaxCommonXD/level.css > *Path to Salvation* I continue to move down the interminable trail as thirst and starvation gradually set in. In the middle of a sweltering desert, my body is exhausted. I start to run out of vitality and stroll. Feel as though the impending death was concealed outside, within the vision-obscuring fog. There was an atmosphere of vivid thinking while walking through the...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/7/74/Level50.jpg/revision/latest?cb=20230702051559"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_50",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_51",
+      "title": "Level 51",
+      "pageid": 156410,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 3",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "The Void",
+        "Level 3",
+        "Level 50",
+        "Level 666",
+        "Level 909",
+        "Level 5",
+        "Level 5.1",
+        "Level 39",
+        "The End",
+        "Level 52",
+        "Level 53",
+        "Level 210",
+        "Level 490",
+        "Level 633",
+        "Level 161.1"
+      ],
+      "summary": "NOTOC Level 51 is now documented as the 52nd level of the Backrooms. The date of discovery is undetermined. 1. Description Hidden beneath the infinite road in sight, Level 51 , officially referred to as \" The White Kanji \", or better known as \" Illuminate Sky \", partially resembles a complex island with giant mountains covered in plain white grass that seemingly goes on for an infinite distance wi...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_51",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_52",
+      "title": "Level 52",
+      "pageid": 111650,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1e - Environmental",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 16",
+        "Level 4",
+        "Level 2",
+        "Level 1",
+        "Level Fun",
+        "Level 17",
+        "Level 3",
+        "Level 11",
+        "Level 53",
+        "Level 556"
+      ],
+      "summary": "NOTOC - Level 52 is the 53rd level within the Backrooms. It was discovered on March 4, 1954 by Dr. Greenfield and Marshall David of the Major Exploration Group. After a few days of exploring the level, he reported his discovery to his organization, eventually leading to a thorough analysis of the level's properties. 1. I. Overview } } - Level 52 , formally known as \" The Greenfield Campus ,\" prese...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_52",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_53",
+      "title": "Level 53",
+      "pageid": 169154,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 0",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 149",
+        "Level 231",
+        "Level 9.99"
+      ],
+      "summary": "Due to the deletion of Level 149, writing can also be made less verbose in some places (eg. The ladders cannot be moved as well, remaining locked in place by what is assumed to by psychic energy that is imbued into the ladder's structure. Any attempts to move these ladders with brute force has lead to no avail, usually ending in the ladder snapping in half and repairing itself almost instantly.). ...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/9/90/AntariaFlagV2.png/revision/latest?cb=20260717151115"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_53",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_54",
+      "title": "Level 54",
+      "pageid": 102212,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1Ψ - Psychological",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 21",
+        "Level 0",
+        "Level 1",
+        "Level 3",
+        "Level 99",
+        "Level 4",
+        "The Hub",
+        "Level 5",
+        "Level 11",
+        "Level 427",
+        "Level 17",
+        "Level 9.6"
+      ],
+      "summary": "Level 54 , often known as \"Stairwell Of Spirals\" is the 55th level of the Backrooms. 《 Overview 》 𝚏𝚒𝚐 1.0 A photograph of Level 54 . Level 54 is an expansive spiral stairway that extends to an undetermined elevation with varying appearances distinct from each of its entrants. The photographs and details provided by each traveler show that the level appears unique to each person arriving; the place...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/1/14/Level54-12.jpg/revision/latest?cb=20240220235631",
+        "https://static.wikia.nocookie.net/backrooms/images/0/0f/Level54-9.png/revision/latest?cb=20240220163129",
+        "https://static.wikia.nocookie.net/backrooms/images/c/cd/Level54-10.jpg/revision/latest?cb=20240220234752",
+        "https://static.wikia.nocookie.net/backrooms/images/4/4a/Level54-18.jpg/revision/latest?cb=20240222154215",
+        "https://static.wikia.nocookie.net/backrooms/images/7/71/Level54-24.jpg/revision/latest?cb=20240222153126",
+        "https://static.wikia.nocookie.net/backrooms/images/6/65/Level54-23.jpg/revision/latest?cb=20240222153156",
+        "https://static.wikia.nocookie.net/backrooms/images/d/d9/Level54-25.jpg/revision/latest?cb=20240222153254",
+        "https://static.wikia.nocookie.net/backrooms/images/c/c9/Level54-11.jpg/revision/latest?cb=20240220235414",
+        "https://static.wikia.nocookie.net/backrooms/images/4/46/Level54-1.png/revision/latest?cb=20231231100326",
+        "https://static.wikia.nocookie.net/backrooms/images/5/5d/Level54-2.png/revision/latest?cb=20240101031659",
+        "https://static.wikia.nocookie.net/backrooms/images/3/30/Final_Segment.jpg/revision/latest?cb=20220713221150",
+        "https://static.wikia.nocookie.net/backrooms/images/4/40/Image_6487327_%282%29.jpg/revision/latest?cb=20211106165258",
+        "https://static.wikia.nocookie.net/backrooms/images/e/e2/Level-54-floor-2.webp/revision/latest?cb=20220420220742",
+        "https://static.wikia.nocookie.net/backrooms/images/1/15/Level_0_yellow.jpg/revision/latest?cb=20230711075300",
+        "https://static.wikia.nocookie.net/backrooms/images/0/07/Level54-4.jpg/revision/latest?cb=20240223032426",
+        "https://static.wikia.nocookie.net/backrooms/images/d/d6/Level54-5.jpg/revision/latest?cb=20240206130103",
+        "https://static.wikia.nocookie.net/backrooms/images/0/0e/Level54-15.jpg/revision/latest?cb=20240223034212",
+        "https://static.wikia.nocookie.net/backrooms/images/d/d8/Level54-22.jpg/revision/latest?cb=20240222152346",
+        "https://static.wikia.nocookie.net/backrooms/images/8/8a/Level54-8.jpg/revision/latest?cb=20240210150142",
+        "https://static.wikia.nocookie.net/backrooms/images/c/c2/Level54-6.jpg/revision/latest?cb=20240210095512",
+        "https://static.wikia.nocookie.net/backrooms/images/1/15/Level54-7.jpg/revision/latest?cb=20240210102056",
+        "https://static.wikia.nocookie.net/backrooms/images/8/89/Level54-16.webp/revision/latest?cb=20240221025606",
+        "https://static.wikia.nocookie.net/backrooms/images/6/68/Fall54.png/revision/latest?cb=20240221013752",
+        "https://static.wikia.nocookie.net/backrooms/images/0/05/Fall54-1.png/revision/latest?cb=20240221013849",
+        "https://static.wikia.nocookie.net/backrooms/images/c/ce/Fall54-2.png/revision/latest?cb=20240221013917",
+        "https://static.wikia.nocookie.net/backrooms/images/4/43/Fall54-3.png/revision/latest?cb=20240221013947",
+        "https://static.wikia.nocookie.net/backrooms/images/b/b9/Fall54-4.png/revision/latest?cb=20240221014009",
+        "https://static.wikia.nocookie.net/backrooms/images/7/7d/Level54Path.png/revision/latest?cb=20240221042948",
+        "https://static.wikia.nocookie.net/backrooms/images/3/3f/Major_Explorer_Group_logo.png/revision/latest?cb=20250331183246",
+        "https://static.wikia.nocookie.net/backrooms/images/9/98/Level54-21.jpg/revision/latest?cb=20240222155746",
+        "https://static.wikia.nocookie.net/backrooms/images/3/36/Level54-17.png/revision/latest?cb=20240222150626",
+        "https://static.wikia.nocookie.net/backrooms/images/d/d5/Level54-19.jpg/revision/latest?cb=20240222155655",
+        "https://static.wikia.nocookie.net/backrooms/images/b/b5/Level54-20.jpg/revision/latest?cb=20240222155714",
+        "https://static.wikia.nocookie.net/backrooms/images/a/af/Level54-26.jpg/revision/latest?cb=20240222160406"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_54",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_55",
+      "title": "Level 55",
+      "pageid": 104145,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2e - Environmental",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 9.99"
+      ],
+      "summary": "NOTOC 1. Level 55 1. 1. ”Hills of Synthetic Verdure” 55 Level 55 is the 56th level of the Backrooms. 1. THREAT INDEX: CLASS 2E 1. ENTITY: 0 DEVOID OF ENTITIES 1. EXIT: 2 SOMEWHAT DIFFICULT 1. ENVIRONMENT: 3 MODERATE HAZARDS 1. Description - Level 55 , otherwise known as *”Hills of Synthetic Verdure”*, is an expansive infinite landscape of grassy hills under a solid blue sky, completely devoid of c...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/e/e0/Eye1.png/revision/latest?cb=20231210033415"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_55",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_56",
+      "title": "Level 56",
+      "pageid": 133328,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 0",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [],
+      "summary": "The cottage sits alone in the clearing. It is a squat Georgian building, constructed from bricks coloured a dull orange that borders on the brown of rotting autumn leaves. Singled-storied and slate-roofed, it stares out at the landscape through two iron-latticed bay windows. It is looking toward the treeline that surrounds it and forms an arboreal ring around the building. Virginia creeper snakes ...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_56",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_57",
+      "title": "Level 57",
+      "pageid": 152528,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [],
+      "summary": "“Work starts at eight. I think I could do something in the meantime. True, I always walk to the office at this time, but let's break the cycle.” \"I was going to cook, eat, shower, maybe make my bed. Instead, I sat at my messy apartment's table, staring out aimlessly through the window. The chamomile tea went cold in my hand. I stared out for that long. The city was meant to be enormous. So much fo...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/b/b6/Dazecore1.png/revision/latest?cb=20260130172442",
+        "https://static.wikia.nocookie.net/backrooms/images/b/b1/SleeplessBeds.jpg/revision/latest?cb=20260130204804",
+        "https://static.wikia.nocookie.net/backrooms/images/3/30/SleeplessHalls.jpg/revision/latest?cb=20260208084106"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_57",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_58",
+      "title": "Level 58",
+      "pageid": 152172,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 5e - Environmental",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 2",
+        "Level 15",
+        "Level 483",
+        "Level 820",
+        "Level 305",
+        "Level 8.2",
+        "Level 8.5",
+        "Level 10.99",
+        "Level 40",
+        "Level 49",
+        "Level 59"
+      ],
+      "summary": "- Level 58 is the 59th level of the Backrooms. 1. Description Stretching across the horizon, Level 58 comprises a conglomeration of maintenance tunnels spread across an undetermined distance. The geometry of the tunnels is cylindrical in shape, yet they include disorderly and confusing geometry, carrying redundant passageways, dead-ends, and nonsensical structures. Additionally, the level is affec...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_58",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_59",
+      "title": "Level 59",
+      "pageid": 80791,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2e - Environmental",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 58",
+        "Level 20",
+        "Level 556",
+        "Level 33",
+        "Level 34",
+        "Level 521",
+        "Level 60",
+        "Level 61",
+        "Level 948",
+        "Level 296",
+        "Level 206"
+      ],
+      "summary": "NOTOC Level 59 is the 60th level of The Backrooms. 1. Description - Level 59 , officially titled as \" Sins of a Mall \", manifests as a vast four-story shopping mall of indeterminable size, with many vacant stores that would be usually found in a Frontrooms mall. The temperature in the mall maintains a steady 10°C, and cold gusts of wind with an unknown origin permeate through the air. The walls ar...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/9/90/AntariaFlagV2.png/revision/latest?cb=20260717151115"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_59",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_6",
+      "title": "Level 6",
+      "pageid": 127,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": true,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 2",
+        "Level 8",
+        "Level 7",
+        "Level 5",
+        "Level 6.1"
+      ],
+      "summary": "NOTOC User:Gamma980/Level6.css A photograph of Level 6 found within a heavily damaged film camera. Image brightened for viewing convenience. LEVEL - 6 THREAT INDEX Class Undetermined Exit: 4/5 Exits Seldom - Environment: 3/5 Moderately Perilous Environment - Entities: ?/5 Entity Presence Indeterminable - Level 6 is the seventh level within the Backrooms. Due to its pervasive anomalous properties, ...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/8/84/Level_6_Deviantart.png/revision/latest?cb=20250330163843",
+        "https://static.wikia.nocookie.net/backrooms/images/a/ab/Untitled205_20240925204431.png/revision/latest?cb=20240926004501"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_6",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_60",
+      "title": "Level 60",
+      "pageid": 139938,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [],
+      "summary": "User:SherlsF/60.css Content Warning: This work contains sensitive content that may not be suitable for some readers, such as: - Critique of religious figures - Descriptions of violent imagery - Historical genocides Any offensive content is exclusively used for artistic and storytelling purposes, presented to analyze character growth, history distortion, and trauma. They do not reflect the author’s...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/7/7f/Warning_triangle_white.png/revision/latest?cb=20250529125112",
+        "https://static.wikia.nocookie.net/backrooms/images/e/e5/Hestiavista.png/revision/latest?cb=20250423113403",
+        "https://static.wikia.nocookie.net/backrooms/images/1/19/Hawk_tuah.png/revision/latest?cb=20250418084235",
+        "https://static.wikia.nocookie.net/backrooms/images/e/ec/In_n_out_guy.png/revision/latest?cb=20260130165441"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_60",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_61",
+      "title": "Level 61",
+      "pageid": 104104,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 59",
+        "Level 913",
+        "Level 238",
+        "Level 68",
+        "Level 62",
+        "Level 711",
+        "Level 187",
+        "Level 121",
+        "Level 695",
+        "Level 610"
+      ],
+      "summary": "== Description== The physical appearance of Level 61 constitutes a series of interconnected vintage train carriages, with a pattern of leather seating separated by an aisle, square windows on both sides, and rows of electric lightbulbs providing light to each carriage. The entirety of Level 61 largely moves forward at a steady pace, similarly to a typical train within the Frontrooms; however, the ...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/a/ab/Untitled205_20240925204431.png/revision/latest?cb=20240926004501"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_61",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_62",
+      "title": "Level 62",
+      "pageid": 103309,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [],
+      "summary": "\"All I have to do is find the girl and get out of here,\" I told myself as I entered this place. I always considered myself empathetic. I was always eager to help those in need. Now was no different. There is a girl called Ash. She was reported missing on this level. Not much is known about the exact location where she was last seen, but looking at the whole thing with my own eyes, it became a bit ...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/f/fa/Sheiswaiting3.png/revision/latest?cb=20260207173110",
+        "https://static.wikia.nocookie.net/backrooms/images/8/80/Sheishere3.png/revision/latest?cb=20260207173206",
+        "https://static.wikia.nocookie.net/backrooms/images/e/e5/SleepKiller.jpeg/revision/latest?cb=20230809225120"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_62",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_63",
+      "title": "Level 63",
+      "pageid": 165829,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 0",
+      "is_solitude": true,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 62",
+        "Level 64",
+        "Level 65",
+        "Level 399",
+        "Level 797",
+        "Level 45"
+      ],
+      "summary": "NOTOC 1. Level 63 1. 1. ”Clouds of Tranquility” 63 1. ENTITY: 0 DEVOID OF ENTITY 1. ENVIRONMENT: 0 DEVOID OF ENVIRONMENTAL HAZARD 1. THREAT INDEX: CLASS 0 1. EXIT: 2 SOMEWHAT DIFFICULT Standing as the sixty fourth level of the Backrooms, Level 63 is characterized by its theme of clouds and relation to tranquility. It serves as one of the safest, therefore highly sought-after levels in the Backroom...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_63",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_64",
+      "title": "Level 64",
+      "pageid": 68547,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 5",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 630",
+        "Level 63",
+        "Level 8",
+        "Level 65",
+        "Level 117",
+        "Level -1000"
+      ],
+      "summary": "READER ADVISORY: MISSING INFORMATION This article contains unverified details and missing information. As the final level below 100 to be documented, Level 64 was discovered after an unusually long lapse. As a result, many of the level's key characteristics are either insufficiently documented or unavailable. Treat this article as a hazard notice. Do not attempt entry based on this document alone....",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_64",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_65",
+      "title": "Level 65",
+      "pageid": 155889,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1e - Environmental",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 63",
+        "Level 610",
+        "Level 21",
+        "Level 29",
+        "Level 38",
+        "Level 49",
+        "Level 64",
+        "Level 995",
+        "Level 67",
+        "Level 66",
+        "Level 521",
+        "Level 833",
+        "Level 179"
+      ],
+      "summary": "- Level 65 is the 66th level of The Backrooms. 1. Description - Level 65, also known as \"The Liminal Skate Park\" is a small modern indoor skateboard park located on a suburban street in a constant state of midnight. The skatepark is fairly small, spanning approximately 500m2 in area. Level 65 is well known for being the central hub of skaters alike, with many different skaters settling in the leve...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_65",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_66",
+      "title": "Level 66",
+      "pageid": 104799,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 27.1",
+        "Level 122",
+        "Level 20"
+      ],
+      "summary": "- Level 66 is the 67th level of the Backrooms. 1. Description } Level 66, commonly known as \"Active Construction,\" possesses no stable layout, and attempts to map it has failed due to its ever-changing structure. Level 66 is characterized by architecture that appears to construct itself in real time. Although each separate environment may be entirely unique from visit to visit, the architecture ar...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_66",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_67",
+      "title": "Level 67",
+      "pageid": 95847,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 39",
+        "Level 268",
+        "Level 71",
+        "Level 375"
+      ],
+      "summary": "- Level 67 is the 68th level of the backrooms. 1. General Description > Level 67 is definitely what I’d consider a strange case when it comes to levels. Although it seems like a foggy and stagnant harbor at first glance, many things make this place rather mysterious. Despite only being recently discovered in 2016, we’ve been trying to study it as best as we can. - Level 67 is best described as a h...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/7/71/Spacial_Research_Logo.png/revision/latest?cb=20240919013146",
+        "https://static.wikia.nocookie.net/backrooms/images/9/95/SEO_Class_Two.png/revision/latest?cb=20240527141755"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_67",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_68",
+      "title": "Level 68",
+      "pageid": 74141,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 0",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 3",
+        "Level 315",
+        "Level 65",
+        "Level 67"
+      ],
+      "summary": "Recording of the rendition present on Level 68 . Survival Difficulty: Class 0 》Safe 》Secure 》Devoid of Entities - Level 68 is the 69th level of the Backrooms. NOTOC noeditsection 1. Description The restaurant's sprawling emptiness is evident in every corner. Sparse décor stands in stark contrast to the relentless, echoing cacophony that fills the air—an unmistakable signature of Level 68 . Every s...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/5/51/Level32.JPG/revision/latest?cb=20221107034634"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_68",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_69",
+      "title": "Level 69",
+      "pageid": 25932,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 68",
+        "Level 9",
+        "Level 11",
+        "Level 117",
+        "Level 9.2",
+        "Level 15",
+        "Level 143",
+        "Level 690",
+        "Level 717",
+        "Level 70",
+        "Level 129",
+        "Level 66"
+      ],
+      "summary": "NOTOC - Level 69 is the 70th level of the Backrooms. 1. Description - Level 69 takes the appearance of an expansive motel located in an arid grassland biome, featuring a seemingly never-ending amount of rooms, which allow the motel to accommodate an endless quantity of wanderers and Facelings, respectively. The grassland around the motel flourishes prickly pear cacti along with many other major da...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_69",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_7",
+      "title": "Level 7",
+      "pageid": 155,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 3",
+      "is_solitude": true,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 173",
+        "Level 6",
+        "Level 5.1",
+        "Level 6.66",
+        "Level 8.5",
+        "Level 17",
+        "Level 45",
+        "Level 88",
+        "Level 117",
+        "Level 200",
+        "Level 221",
+        "Level 248",
+        "Level 280",
+        "Level 406",
+        "Level 594",
+        "Level 700",
+        "Level 967",
+        "Level 4",
+        "Level 7.1",
+        "Level 7.5",
+        "Level 7.7",
+        "Level 8",
+        "Level 8.2",
+        "Level 13",
+        "Level 37",
+        "Level 38",
+        "Level 38.1",
+        "Level 41",
+        "Level 49"
+      ],
+      "summary": "User:SherlsF/icon7.css > And if you gaze long into an abyss, the abyss also gazes into you. > And if you gaze long into an abyss, the abyss also gazes into you. LEVEL 7 THREAT INDEX - Class 3 - Exit: 4/5 Very Difficult to Exit - Environment: 4/5 High Environmental Risk - Entities: 1/5 Singular Entity Presence 1. Description Level 7 consists of a confined metal bunker floating atop an endless, fogg...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_7",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_70",
+      "title": "Level 70",
+      "pageid": 132356,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 4e - Environmental",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "The Void",
+        "Level 630",
+        "Level 9.2",
+        "Level 10",
+        "Level 118"
+      ],
+      "summary": "- Level 70 , colloquially known as \"Gamma Garden,\" is the 71st level of the Backrooms. Description Level 70 is characterized as a series of labyrinthine gardens and small patches of grass that all surround a highly radioactive portion of the level dubbed the Epicenter . Whilst the level lacks an entity presence, it is still incredibly dangerous due to the presence of gamma radiation as one approac...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/5/56/Radioactive-warning-sign-png.png/revision/latest?cb=20241226032830"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_70",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_71",
+      "title": "Level 71",
+      "pageid": 47747,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2e - Environmental",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 70",
+        "Level 0",
+        "Level 37",
+        "Level 67",
+        "Level 72"
+      ],
+      "summary": "Level 71: “Waterslides” Level 71: “Waterslides” User:WinnDixieSweetTea/SEO theme.css > Welcome to serenity. The wonderful waterslides, the tepid pools, the sound of nothing but the ripples of water—what else could you ask for? - Level 71 is the 72nd level of The Backrooms. Description - Level 71 is an expanse of tepid pools and waterslides with a relatively modern aesthetic. The architecture is fa...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/a/ad/REDACTED17.png/revision/latest?cb=20210707043706",
+        "https://static.wikia.nocookie.net/backrooms/images/a/a3/New_and_Improved_Level_71.jpg/revision/latest?cb=20230327001820"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_71",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_72",
+      "title": "Level 72",
+      "pageid": 121262,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 6",
+        "Level 11",
+        "Level 154",
+        "Level 399",
+        "Level 909",
+        "Level 1",
+        "Level 10",
+        "Level 75"
+      ],
+      "summary": "1. Description - Level 72 is an endless, dimly-lit complex of various marketplaces that exclusively sells fresh produce, and rarely, its derivatives. The ground is riddled with potholes filled with polluted Almond Water and consists of weathered cobblestone pathways interspersed with patches of worn asphalt, implying that the level is situated alongside a road. Regardless, any attempt to locate su...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_72",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_74",
+      "title": "Level 74",
+      "pageid": 73971,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 5e - Environmental",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 124",
+        "Level 488",
+        "Level 566",
+        "Level 621"
+      ],
+      "summary": "* ❄ No Hopǝ In Wǝ Фбiжid Зoóф... ❄ * > I can feel the pain of every nerve rotting away as frostbite and gangrene gnaw at my hands. I can feel the walls creaking as if they are about to give way to the giant blizzard roaring outside. God, if you are around, save me. Survival Difficulty: Class 5e - Environmental 》Unsafe 》Unstable 》Numerous Non-Entity Hazards ‎ Level 74 is the 75th level of the Backr...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/2/2d/Australis.png/revision/latest?cb=20221106162024",
+        "https://static.wikia.nocookie.net/backrooms/images/3/35/Class5eWintered.png/revision/latest?cb=20221221101127",
+        "https://static.wikia.nocookie.net/backrooms/images/4/4d/Level_74.png/revision/latest?cb=20221107195802",
+        "https://static.wikia.nocookie.net/backrooms/images/b/bb/Level_74_Two.png/revision/latest?cb=20221217164437"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_74",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_75",
+      "title": "Level 75",
+      "pageid": 98965,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 3",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 9",
+        "Level 11",
+        "Level 82",
+        "Level 222",
+        "Level 989",
+        "Level 234",
+        "Level 375"
+      ],
+      "summary": "1. Description - Level 75 comprises districts of grounded slums characterized by a juxtaposition of overcrowded living quarters against a backdrop of modern skyscrapers — sometimes called 'ghost buildings' — when viewed from the east. The distance between the region and the wanderer's location appears to be proximate, though current understanding suggests that these structures are mere illusions f...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/8/83/Backgrounds75.jpg/revision/latest?cb=20230822120347"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_75",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_76",
+      "title": "Level 76",
+      "pageid": 165818,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 72",
+        "Level 75",
+        "Level 78",
+        "Level 79",
+        "Level 82",
+        "Level 107",
+        "Level 74",
+        "Level 449",
+        "Level 798",
+        "Level 77",
+        "Level 124",
+        "Level 65",
+        "Level 634",
+        "Level 797",
+        "Level 93"
+      ],
+      "summary": "1. Description Level 76 is an endless road winding through the hills of a boreal forest. It is lined with wire mesh fences, flickering lampposts, old wooden power lines, and occasional sections of cracked sidewalk. The road is typically made of asphalt or concrete with no junctions, crossings, or street signs to be found. The forest beyond is navigable, but any extended travel through it leads bac...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_76",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_77",
+      "title": "Level 77",
+      "pageid": 75925,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 5e - Environmental",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 116",
+        "Level 80"
+      ],
+      "summary": "> Some text on this page is hard to read for some users. Also, do not read this page without the Right Rail. You can view this page in Light Mode, but some words are invisible, which I don't know how to fix. Just use dark mode.. Links to deleted pages and why are the images so freaking big? \\Longrightarrow\\lfloor Level 77 is the 78th level of The Backrooms . \\rceil \\Longleftarrow > A long journey ...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/e/e7/77Fate.png/revision/latest?cb=20260509161327",
+        "https://static.wikia.nocookie.net/backrooms/images/f/f8/77New.png/revision/latest?cb=20260509122026",
+        "https://static.wikia.nocookie.net/backrooms/images/6/69/77Farm.png/revision/latest?cb=20260606055743",
+        "https://static.wikia.nocookie.net/backrooms/images/2/24/77RosesFarm.png/revision/latest?cb=20260510074205",
+        "https://static.wikia.nocookie.net/backrooms/images/3/3f/ThisisNOTAIThiswastakenfromadobeandeditedandmodifiedbyme.png/revision/latest?cb=20260510075800"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_77",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_78",
+      "title": "Level 78",
+      "pageid": 30633,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 3Ψ - Psychological",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "The Void",
+        "Level 79"
+      ],
+      "summary": "- Level 78 is the 79th level of The Backrooms. 1. Description - Level 78 , also referred colloquially as \"Psychological Planet\", has a visual appearance of a large grassland with an unnatural ground relief. Hills, mountains, valleys, and fluctuations in the level's elevation are excessively common within the level, turning it hard to wander without getting lost. However, the landforms of this leve...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_78",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_79",
+      "title": "Level 79",
+      "pageid": 142957,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "outdoor_chunk_100m",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "The Hive",
+        "Level 10",
+        "Level 1",
+        "Level 5",
+        "Level 415",
+        "Level 2",
+        "Level 37",
+        "Level 11",
+        "Level 27",
+        "Level 6"
+      ],
+      "summary": "vi:Level 79 User:Liminalityyyyy/wakefiles.css Border Skirmishes 1. Description The vast landscape of concrete, urban hellscape superimposed on the atmospheric beauty; from the sky to the light, each fragment of the grander picture coalesces to form Strums of Suburbia (Level 79). Elevated, sometimes rugged terrain shapes the island; terrain lined by buildings strewn across its surface, occasionally...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/c/c9/L-100_Shoreline.jpg/revision/latest?cb=20250522162630",
+        "https://static.wikia.nocookie.net/backrooms/images/e/e2/FTS-Radio_tower.ogg/revision/latest?cb=20250531210713",
+        "https://static.wikia.nocookie.net/backrooms/images/0/04/L-100_Apartments.png/revision/latest?cb=20250531195439",
+        "https://static.wikia.nocookie.net/backrooms/images/0/00/L-100_Store.png/revision/latest?cb=20250531201059",
+        "https://static.wikia.nocookie.net/backrooms/images/e/e9/Fts.png/revision/latest?cb=20250528212405",
+        "https://static.wikia.nocookie.net/backrooms/images/9/9b/L-100_Interior.jpeg/revision/latest?cb=20250601013513",
+        "https://static.wikia.nocookie.net/backrooms/images/0/0c/L-100_Construction.png/revision/latest?cb=20250601163554",
+        "https://static.wikia.nocookie.net/backrooms/images/5/53/L-100_Slums.png/revision/latest?cb=20250601163550",
+        "https://static.wikia.nocookie.net/backrooms/images/1/10/L-100_Weird_Block.jpeg/revision/latest?cb=20250607085235",
+        "https://static.wikia.nocookie.net/backrooms/images/5/50/FTS-Anthra-flag.png/revision/latest?cb=20250531175938",
+        "https://static.wikia.nocookie.net/backrooms/images/b/bc/FTS-Kastenie-flag.png/revision/latest?cb=20250531175938",
+        "https://static.wikia.nocookie.net/backrooms/images/b/bf/FTS-CHF-flag.png/revision/latest?cb=20250531175938",
+        "https://static.wikia.nocookie.net/backrooms/images/f/fc/FTS-Mechta-flag.png/revision/latest?cb=20250531175937",
+        "https://static.wikia.nocookie.net/backrooms/images/c/c3/FTS-Tehyovikwozhu-flag.png/revision/latest?cb=20250531175938",
+        "https://static.wikia.nocookie.net/backrooms/images/1/12/FTS-Rahaullinen-flag.png/revision/latest?cb=20250531175938",
+        "https://static.wikia.nocookie.net/backrooms/images/7/70/Ruphis.png/revision/latest?cb=20241019181850"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_79",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_8",
+      "title": "Level 8",
+      "pageid": 188,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 3",
+      "is_solitude": true,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 3",
+        "Level 6",
+        "Level 7",
+        "Level 85"
+      ],
+      "summary": "1. Description - Level 8 is a sprawling subterranean complex of towering, rocky heights and deep, twisting burrows. Its difficulty of navigation has rendered it effectively incapable of measurement; as a result, few have ventured into the level’s depths, and even fewer have made it back out. Due to its expansive structure, all noises emitted within Level 8 echo extensively after ricocheting off it...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_8",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_80",
+      "title": "Level 80",
+      "pageid": 154699,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 630",
+        "Level 0",
+        "Level -800",
+        "Level 15",
+        "Level 27",
+        "Level 98",
+        "Level Omega",
+        "Level 2",
+        "Level 79",
+        "Level 37",
+        "Level 4",
+        "Level 81"
+      ],
+      "summary": "Between the 2 universes.. The clocks strike your mind. has entered the database! May be welcomed! 1. Level 80: 1. \"A Lost Perception Between Time and Reality\" Play Audio! But once a certain realization occurs… Level 80 is the 81st level of The Backrooms. 1. > Description L‎ o‎ o‎ k‎ i‎ n‎ g‎ ‎‎ ‎ a‎ t‎ ‎ ‎ t‎ h‎ e‎ ‎ ‎ c‎ l‎ o‎ c‎ k‎ s‎ .‎ .‎ . 873fcc873fcc873fcc I don’t know how long I’ve been he...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/a/ae/1130-2.gif/revision/latest?cb=20240304221236",
+        "https://static.wikia.nocookie.net/backrooms/images/f/f7/80.png/revision/latest?cb=20260130103055",
+        "https://static.wikia.nocookie.net/backrooms/images/f/f7/W8bet362ksrmr0cw211ap2xrzm.webp/revision/latest?cb=20260130185703",
+        "https://static.wikia.nocookie.net/backrooms/images/c/cb/Almond_Water_Pool_of_Level_80.jpg/revision/latest?cb=20260204202140",
+        "https://static.wikia.nocookie.net/backrooms/images/6/61/Screenshot_2026-02-04_211207.png/revision/latest?cb=20260204211242",
+        "https://static.wikia.nocookie.net/backrooms/images/4/4a/A_clock_and_a_room.png/revision/latest?cb=20260304053711",
+        "https://static.wikia.nocookie.net/backrooms/images/0/06/Screenheytrttrw3rt2845.png/revision/latest?cb=20260304054047",
+        "https://static.wikia.nocookie.net/backrooms/images/4/43/OMG_ITS_THE_HOROLOGIUM_CONSTELLATION.jpg/revision/latest?cb=20260604182554",
+        "https://static.wikia.nocookie.net/backrooms/images/5/58/RomanianMall2.png/revision/latest?cb=20251224021452",
+        "https://static.wikia.nocookie.net/backrooms/images/5/54/C_l_o_c_k.png/revision/latest?cb=20260205203804",
+        "https://static.wikia.nocookie.net/backrooms/images/2/28/Screenshot_2026-02-05_211922.png/revision/latest?cb=20260205211941",
+        "https://static.wikia.nocookie.net/backrooms/images/6/63/Level_0.png/revision/latest?cb=20260205213021",
+        "https://static.wikia.nocookie.net/backrooms/images/2/21/Grandfather_go_brrrr.png/revision/latest?cb=20260206181751",
+        "https://static.wikia.nocookie.net/backrooms/images/8/81/Level_-800.jpg/revision/latest?cb=20221111114518",
+        "https://static.wikia.nocookie.net/backrooms/images/a/ae/L-100_Central_Road.png/revision/latest?cb=20250531194518",
+        "https://static.wikia.nocookie.net/backrooms/images/a/a6/80.jpeg/revision/latest?cb=20230609131124",
+        "https://static.wikia.nocookie.net/backrooms/images/7/72/Pianp.jpg/revision/latest?cb=20240225193118"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_80",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_81",
+      "title": "Level 81",
+      "pageid": 112230,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [],
+      "summary": "center center At first, it is all distant. The eerie and dreary melody, playing at the edge of your perception. The unseen source seems to retreat the deeper you wander within, never more than a meter away. Its rebounding echoes keep beckoning you deeper into the decrepit and poorly-illuminated concrete complex. Each note of the melody conveys a distant memory; familiarity embedded into each one o...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/4/46/Piano_logo.png/revision/latest?cb=20260624121022"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_81",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_82",
+      "title": "Level 82",
+      "pageid": 123237,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [],
+      "summary": "> ...I hear something > And it's approaching me at rapid speed... 1. One by one, the blackout silences every lamp. The dark of night falls upon the cityscape in seconds. At last, a break from the monotony of light-polluted streets. The bustling streets far into the horizon pause, and the lights and I, finally get their rest. A chance, to fall asleep at last, without hearing traffic and seeing stre...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/0/0f/Vignette.png/revision/latest?cb=20230309223138",
+        "https://static.wikia.nocookie.net/backrooms/images/a/aa/DarkSkies.jpg/revision/latest?cb=20240808154511"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_82",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_83",
+      "title": "Level 83",
+      "pageid": 98128,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 10",
+        "Level 416",
+        "Level 798",
+        "Level 180",
+        "Level 84"
+      ],
+      "summary": "NOTOC Level 83 is the 84th level of the Backrooms. 1. Description - Level 83 is a sprawling field of red roses under a dull blue sky. Plantlife is sustained by hot winds that carry moisture and other chemicals necessary for their survival. These compounds are contained within clouds, which conform to typical cloud classification despite the additional materials. These same winds scatter the sweet ...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_83",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_84",
+      "title": "Level 84",
+      "pageid": 35666,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2",
+      "is_solitude": false,
+      "optimization_mode": "outdoor_chunk_100m",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 11",
+        "Level 30",
+        "Level 83",
+        "Level 9",
+        "Level 9.99",
+        "Level 188.2",
+        "Level 85",
+        "Level 198",
+        "Level 410",
+        "Level 98",
+        "Level 122"
+      ],
+      "summary": "The cramped structures surround you. Level 84 is the 85th level of the Backrooms. Description FFFFFF There is exceptionally little space, or none, for individuals who desire to wander through the seemingly never-ending alleyways of Level 84 , composed of an assortment of establishments crammed together in an unconventional arrangement. Level 84 is home to an eclectic collection of institutions, ra...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/e/e7/HomogenousBuildings.jpg/revision/latest?cb=20220301015144",
+        "https://static.wikia.nocookie.net/backrooms/images/e/ed/You_got_mail%21.png/revision/latest?cb=20220307071454",
+        "https://static.wikia.nocookie.net/backrooms/images/5/54/EMAIL_3.png/revision/latest?cb=20221108114955",
+        "https://static.wikia.nocookie.net/backrooms/images/3/3b/Ordos2.png/revision/latest?cb=20231221172042",
+        "https://static.wikia.nocookie.net/backrooms/images/b/b7/Level84.jpg/revision/latest?cb=20220305231605",
+        "https://static.wikia.nocookie.net/backrooms/images/d/dd/Brum.webp/revision/latest?cb=20231225201936"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_84",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_85",
+      "title": "Level 85",
+      "pageid": 71527,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 11",
+        "Level 35",
+        "Level 37.9",
+        "Level 84",
+        "Level 123",
+        "Level 222",
+        "Level 400",
+        "Level 995",
+        "Level 8",
+        "Level 87",
+        "Level 100"
+      ],
+      "summary": "𝓒𝓵𝓲𝓬𝓴 𝓷𝓸𝔀 𝓽𝓸 𝓰𝓮𝓽 𝔂𝓸𝓾𝓻 𝓸𝔀𝓷 𝓫𝓸𝓽𝓽𝓵𝓮 𝓸𝓯 ████████¿ǝʌ█l██oʍʇ██uosɐ█ɹ█ʎuɐ██ɹǝɥʇ██ɹ███ ㅤYou'll have a very mellow time!ㅤ January 5 2999 04:32:30 ㅤYou'll have a very mellow time!ㅤ January 5 2999 04:32:30 Threat Index: Class Ψ »⠀Physically Safe »⠀Abundance of Food »⠀Severe Psychological Hazards Level 85 is the 86th level of the Backrooms. 1. Description - Level 85 is an endless, outdoor expanse of varying a...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/6/63/Level-85-Background.jpg/revision/latest?cb=20221101123511",
+        "https://static.wikia.nocookie.net/backrooms/images/0/0c/Level-85-Cocaine.png/revision/latest?cb=20230111084342",
+        "https://static.wikia.nocookie.net/backrooms/images/5/5a/Level_85_vespa.png/revision/latest?cb=20230125065806",
+        "https://static.wikia.nocookie.net/backrooms/images/d/d2/ClassCustom85.png/revision/latest?cb=20230125081314",
+        "https://static.wikia.nocookie.net/backrooms/images/f/f7/Level-85.png/revision/latest?cb=20221103032224",
+        "https://static.wikia.nocookie.net/backrooms/images/9/94/Level-85-2.png/revision/latest?cb=20230208021304",
+        "https://static.wikia.nocookie.net/backrooms/images/1/14/Warning-85.png/revision/latest?cb=20230125085640",
+        "https://static.wikia.nocookie.net/backrooms/images/c/cd/Level_85_Recording.mp3/revision/latest?cb=20221104103650",
+        "https://static.wikia.nocookie.net/backrooms/images/0/0b/Level-85-TownSquare.png/revision/latest?cb=20221106011853",
+        "https://static.wikia.nocookie.net/backrooms/images/2/25/Level-85-Suburbs.png/revision/latest?cb=20221109085324",
+        "https://static.wikia.nocookie.net/backrooms/images/0/07/Level-85-Urban.png/revision/latest?cb=20230208140341",
+        "https://static.wikia.nocookie.net/backrooms/images/c/ce/Level-85-Amusement.png/revision/latest?cb=20221109100748",
+        "https://static.wikia.nocookie.net/backrooms/images/1/11/Level-85-Seaside.png/revision/latest?cb=20230116122556",
+        "https://static.wikia.nocookie.net/backrooms/images/1/16/Level-85-Gallery-1.png/revision/latest?cb=20230209110644",
+        "https://static.wikia.nocookie.net/backrooms/images/e/ee/Level-85-Gallery-2.jpg/revision/latest?cb=20221124125632",
+        "https://static.wikia.nocookie.net/backrooms/images/e/ef/Level-85-Gallery-3.jpg/revision/latest?cb=20221124125651",
+        "https://static.wikia.nocookie.net/backrooms/images/1/17/Level-85-Gallery-4.png/revision/latest?cb=20230126013309",
+        "https://static.wikia.nocookie.net/backrooms/images/f/f5/Level-85-Gallery-5.jpg/revision/latest?cb=20221124125740",
+        "https://static.wikia.nocookie.net/backrooms/images/0/07/Level-85-Gallery-6.jpg/revision/latest?cb=20230125125153",
+        "https://static.wikia.nocookie.net/backrooms/images/5/5c/Level-85-Gallery-7.jpg/revision/latest?cb=20221124125824",
+        "https://static.wikia.nocookie.net/backrooms/images/7/73/Level-85-Gallery-8.png/revision/latest?cb=20221130083028",
+        "https://static.wikia.nocookie.net/backrooms/images/4/4a/Level-85-%3F-light.png/revision/latest?cb=20230127082408",
+        "https://static.wikia.nocookie.net/backrooms/images/3/3f/Level-85-%3F.png/revision/latest?cb=20230127082044"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_85",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_86",
+      "title": "Level 86",
+      "pageid": 121664,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 0",
+        "Level 1",
+        "Level 2",
+        "Level 87",
+        "Level 85",
+        "Level 610",
+        "Level 356",
+        "Level 5",
+        "Level 33",
+        "Level 330"
+      ],
+      "summary": "Level - Level 86 is one of the only other levels outside of Level 0, Level 1, and Level 2 that is immediately accessible from Earth via noclipping. Approximately 1-2% of wanderers begin their travels in the Backrooms here. The odds of beginning here are significantly raised in areas of close proximity to bars or sites of cue sports, suggesting a potential interdimensional link between those areas ...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/e/e4/SolidsStripes.webp/revision/latest?cb=20240713150217",
+        "https://static.wikia.nocookie.net/backrooms/images/0/05/Scatter.webp/revision/latest?cb=20240713150235",
+        "https://static.wikia.nocookie.net/backrooms/images/4/4d/8BallBG.webp/revision/latest?cb=20240713150706",
+        "https://static.wikia.nocookie.net/backrooms/images/5/58/9BallBG.webp/revision/latest?cb=20240713150715",
+        "https://static.wikia.nocookie.net/backrooms/images/0/05/10BallBG.webp/revision/latest?cb=20240713150722",
+        "https://static.wikia.nocookie.net/backrooms/images/c/cf/Billiard222.webp/revision/latest?cb=20240713150422",
+        "https://static.wikia.nocookie.net/backrooms/images/e/e1/Billiard33.webp/revision/latest?cb=20240713150440",
+        "https://static.wikia.nocookie.net/backrooms/images/2/2e/Billiard444.webp/revision/latest?cb=20240713150503",
+        "https://static.wikia.nocookie.net/backrooms/images/f/f0/Billiard555.webp/revision/latest?cb=20240713150528",
+        "https://static.wikia.nocookie.net/backrooms/images/0/0c/Billiard666.webp/revision/latest?cb=20240713150544"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_86",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_87",
+      "title": "Level 87",
+      "pageid": 170229,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 4e - Environmental",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 0",
+        "Level 4",
+        "Level 772",
+        "Level 46",
+        "Level 135",
+        "Level 125",
+        "Level 402",
+        "Level 28",
+        "Level 91",
+        "Level 193",
+        "Level 442",
+        "Level 484"
+      ],
+      "summary": "- Level 87 , also known as Dehydration , is the 88th level of the Backrooms. 1. GENERAL DESCRIPTION - Level 87 takes the appearance of a seemingly endless network of beach house rooms interconnected by hallways and stairs built throughout vast formations of anomalous sand. The sand behaves much like water, flowing and undulating freely throughout the level and passing through all walls without any...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/c/c9/MEGNOTICES.png/revision/latest?cb=20240916135451"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_87",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_88",
+      "title": "Level 88",
+      "pageid": 26625,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 33",
+        "Level 98",
+        "Level 330",
+        "Level 43",
+        "Level 406",
+        "Level 570"
+      ],
+      "summary": "1. Description - Level 88 , also known as \"Atlantis' Aquarius Dining\", is an extensive, ocean-themed dining complex with colossal aquarium tanks exhibited throughout every area. The wall appears in pallid concrete colors, whereas the floor is often covered with desaturated tile, occasionally laid with carpet; such textiles remain spotless and immaculate. The turned-off ceiling lights leave the aqu...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/2/2d/Level88Light.png/revision/latest?cb=20260327144954",
+        "https://static.wikia.nocookie.net/backrooms/images/0/09/Level88Dark.png/revision/latest?cb=20260327145039",
+        "https://static.wikia.nocookie.net/backrooms/images/0/09/MEG4.png/revision/latest?cb=20240418110043",
+        "https://static.wikia.nocookie.net/backrooms/images/7/75/MEG4-1.png/revision/latest?cb=20240418110351"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_88",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_89",
+      "title": "Level 89",
+      "pageid": 154893,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 5",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 4",
+        "Level 666",
+        "Level 25",
+        "Level 151",
+        "Level 52",
+        "Level 88",
+        "Level 99",
+        "Level 5",
+        "Level 19",
+        "Level 20",
+        "Level 26",
+        "Level 28",
+        "Level 53",
+        "Level 90"
+      ],
+      "summary": "NOTOC - Level 89 , also labelled as Level TH 7 , is the 90th level of the Backrooms. 1. [๑.] Indoor Setting } } - Level 89 , known as \"Mountainous Madness\" or \"Furniture Madness\", appears as an aggregation of edifices whose spaces feature bizarrely arranged furniture. The building's layout suggests academic institutions above all else. Places include schools, examination halls, administrative offi...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/4/42/LightCircleChairs.png/revision/latest?cb=20260203135324",
+        "https://static.wikia.nocookie.net/backrooms/images/5/58/LevelTH5.png/revision/latest?cb=20260206082120",
+        "https://static.wikia.nocookie.net/backrooms/images/3/33/6October.png/revision/latest?cb=20260203021505",
+        "https://static.wikia.nocookie.net/backrooms/images/e/e8/LightCircleChairs1.png/revision/latest?cb=20260205130811",
+        "https://static.wikia.nocookie.net/backrooms/images/6/61/Hatyai3.png/revision/latest?cb=20260203163605",
+        "https://static.wikia.nocookie.net/backrooms/images/4/4c/Hatyai1.png/revision/latest?cb=20260203163406",
+        "https://static.wikia.nocookie.net/backrooms/images/3/30/Hatyai2.png/revision/latest?cb=20260203163441",
+        "https://static.wikia.nocookie.net/backrooms/images/5/55/Hatyai4.png/revision/latest?cb=20260203163636",
+        "https://static.wikia.nocookie.net/backrooms/images/6/62/Hatyai5.png/revision/latest?cb=20260203163712",
+        "https://static.wikia.nocookie.net/backrooms/images/1/11/Hatyai6.png/revision/latest?cb=20260203163917",
+        "https://static.wikia.nocookie.net/backrooms/images/7/75/3091590037_0b25febee1_o.jpg/revision/latest?cb=20260206095037",
+        "https://static.wikia.nocookie.net/backrooms/images/0/09/SeaBackground.png/revision/latest?cb=20260202163439",
+        "https://static.wikia.nocookie.net/backrooms/images/d/dd/Screenshot_2026-02-03_195848.png/revision/latest?cb=20260209142027"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_89",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_9",
+      "title": "Level 9",
+      "pageid": 328,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 4",
+      "is_solitude": false,
+      "optimization_mode": "outdoor_chunk_100m",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 8",
+        "The Hub",
+        "Level 20",
+        "Level 21",
+        "Level 25",
+        "Level 29",
+        "Level 91",
+        "Level 123",
+        "Level 10",
+        "Level 9.1",
+        "Level 13",
+        "Level 84"
+      ],
+      "summary": "- Level 9 is the first level beyond The Main Nine that is an outdoor environment. To some, it serves as a hope to nomads that they finally reach deeper levels of The Backrooms that most have never before. While to others it is another beginning of despair that will stick with them till the end of their journey. However, one thing is for sure about this place: it is not for people. Overview 》 - Lev...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/f/fa/Level9-7-1.png/revision/latest?cb=20260314141003",
+        "https://static.wikia.nocookie.net/backrooms/images/9/9f/Level9-7.png/revision/latest?cb=20260314100717",
+        "https://static.wikia.nocookie.net/backrooms/images/8/8b/Level9-6.png/revision/latest?cb=20260314133508",
+        "https://static.wikia.nocookie.net/backrooms/images/f/f2/Level9-4.png/revision/latest?cb=20260314072724",
+        "https://static.wikia.nocookie.net/backrooms/images/1/1b/Level9-4-1.png/revision/latest?cb=20260314081433",
+        "https://static.wikia.nocookie.net/backrooms/images/4/41/Level9-5-1.png/revision/latest?cb=20260314082354",
+        "https://static.wikia.nocookie.net/backrooms/images/e/ed/Level9-5.png/revision/latest?cb=20260314082330"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_9",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_90",
+      "title": "Level 90",
+      "pageid": 104253,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 4Ψ - Psychological",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 86",
+        "Level Fun",
+        "Level 89",
+        "Level 900",
+        "Level 11",
+        "Level 66",
+        "Level 80"
+      ],
+      "summary": "mono 1. CONTENT WARNING This page contains sensitive content not suitable for all audiences . Readers including you might consider these topic(s) disturbing, anxiety-inducing, or inappropriate: Suicide, mental trauma. But this level can also be.. - Level 90 is the 91st level of The Backrooms . 1. Description - Level 90 appears to be an infinite segmentation of small, cramped rooms made to resemble...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/a/a1/Warning_triangle_thing.png/revision/latest?cb=20231130074009",
+        "https://static.wikia.nocookie.net/backrooms/images/d/d4/Fake_gore.png/revision/latest?cb=20260614110006",
+        "https://static.wikia.nocookie.net/backrooms/images/0/05/Fake_gore_2.png/revision/latest?cb=20260614110139",
+        "https://static.wikia.nocookie.net/backrooms/images/e/e2/Broken_Party_Room.jpg/revision/latest?cb=20260625213606"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_90",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_91",
+      "title": "Level 91",
+      "pageid": 60209,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2",
+      "is_solitude": false,
+      "optimization_mode": "outdoor_chunk_100m",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 399",
+        "Level 90",
+        "Level 35",
+        "Level 11",
+        "Level 671",
+        "Level 600",
+        "Level 37",
+        "Level 93",
+        "Level 9",
+        "Level 41",
+        "Level 50",
+        "Level 82",
+        "Level 85",
+        "Level 111",
+        "Level 125",
+        "Level 306",
+        "Level 690",
+        "Level 38",
+        "Level 17",
+        "Level 754",
+        "The Hub",
+        "Level 100"
+      ],
+      "summary": "User:SavouryXD/div image.css NOTOC zh:Level 91 vi:Level 91",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/1/1a/Level91BillboardAdvertisement.png/revision/latest?cb=20260222201107",
+        "https://static.wikia.nocookie.net/backrooms/images/5/5a/Sand.jpg/revision/latest?cb=20230805171025",
+        "https://static.wikia.nocookie.net/backrooms/images/4/48/Albuquerque.webp/revision/latest?cb=20230803211923",
+        "https://static.wikia.nocookie.net/backrooms/images/5/5b/AbruptStop.webp/revision/latest?cb=20230803211417",
+        "https://static.wikia.nocookie.net/backrooms/images/6/6b/StopSign.webp/revision/latest?cb=20230803212157",
+        "https://static.wikia.nocookie.net/backrooms/images/4/4c/JewelryForSale.webp/revision/latest?cb=20230628234248"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_91",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_92",
+      "title": "Level 92",
+      "pageid": 136604,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1e - Environmental",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 490",
+        "Level 8",
+        "The Void"
+      ],
+      "summary": "- Level 92 is the 93rd level of The Backrooms. 1. Description - Level 92 is an expansive, interconnected network of blanket forts with undefined boundaries. These structures resemble subterranean caves in their irregular, terrain-like connections and tunnel-like formations. The general atmosphere is warm and inviting, with heated surfaces that evoke the sensation of lying atop a bed. The tunnels a...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/4/4d/Level_92_1.png/revision/latest?cb=20250227170705",
+        "https://static.wikia.nocookie.net/backrooms/images/f/f2/Level_92.png/revision/latest?cb=20250227164652"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_92",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_93",
+      "title": "Level 93",
+      "pageid": 155232,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 827",
+        "Level 85",
+        "Level 333",
+        "Level 18",
+        "Level 91",
+        "Level 655",
+        "Level 69",
+        "Level 53"
+      ],
+      "summary": "*\"Remember?\"* *\"You shouldn't be here. Yet here you are.\"* *\"It's the 90s all over again.\"* *\"You know this is your only chance to experience the 90s again.\"* *\"It's quiet and cold.\"* Level 93: Back To '93 - Level 93 is the 94th level in the Backrooms. • Overview • Back to '93, also known as \"Level 93\", is an American-styled household from the 1990s with limitless dimensions. The rooms are diverse...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/3/3a/33b1cff763aaaf4030e9875ea623bfe3.jpg/revision/latest?cb=20260702191835",
+        "https://static.wikia.nocookie.net/backrooms/images/f/fb/9c1d40bb791577ec56711f9eeae0b2ff.png/revision/latest?cb=20260624150847",
+        "https://static.wikia.nocookie.net/backrooms/images/d/df/29a294900478c79d90f3d5f030f8f8fd.jpg/revision/latest?cb=20260630223328",
+        "https://static.wikia.nocookie.net/backrooms/images/f/ff/7dc63690ddb65e2a232576274af8cbe9.png/revision/latest?cb=20260628115643",
+        "https://static.wikia.nocookie.net/backrooms/images/0/0b/F2b930509b7edb5ee94aa14e02795a6b.png/revision/latest?cb=20260624151151",
+        "https://static.wikia.nocookie.net/backrooms/images/3/3f/Major_Explorer_Group_logo.png/revision/latest?cb=20250331183246",
+        "https://static.wikia.nocookie.net/backrooms/images/8/8e/4f04225a86c1fa71c8896ca7b03e9083.jpg/revision/latest?cb=20260701130512"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_93",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_94",
+      "title": "Level 94",
+      "pageid": 59611,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 3e - Environmental",
+      "is_solitude": false,
+      "optimization_mode": "outdoor_chunk_100m",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [],
+      "summary": "1. Archived logs NOTOC NOEDITSECTION Open Author & Licensing Information Close Author & Licensing Information Author: SherlsF Co-Author: Syncronyzer Wikitext Revamp/Expansion: 1morro.com Images: All images' are licensed under CC-BY-SA and CC0 First Image(CC0): My dad took it in China so whatever I could prolly use it lol Second Image(CC-BY-SA, has been reposted many times on Tumblr): http://412.la...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_94",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_95",
+      "title": "Level 95",
+      "pageid": 111861,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 2e - Environmental",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "The Void",
+        "Level 11",
+        "Level 9",
+        "Level 132",
+        "Level 94",
+        "Level 120",
+        "Level 130",
+        "Level 96"
+      ],
+      "summary": "NOTOC In the dwindling light, the crickets sing, Their symphony of an evening ring. Amidst the whispers of the breeze, Their gentle song wisps through the trees. The chirps are a lullaby so sweet, A gentle hum, a soft heartbeat. As the night begins to fall, The cricket tunes begin to stall. For in the fading light's embrace, It's time for all to find their place. To bid farewell to the shadow's ro...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_95",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_96",
+      "title": "Level 96",
+      "pageid": 155132,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 3",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 2",
+        "Level 3.14",
+        "Level 7",
+        "Level 72",
+        "Level 974",
+        "Level 13",
+        "Level 35",
+        "Level 85",
+        "Level 123",
+        "Level 199",
+        "Level 690",
+        "The Void"
+      ],
+      "summary": "The absurd is lucid reason noting its limits — Albert Camus, The Myth of Sisyphus LEVEL 96 THREAT INDEX - Class 3 - Exit: 2/5 Somewhat Difficult to Exit - Environment: 4/5 High Environmental Risk - Entities: 3/5 Major Hostile Presence LEVEL 96 THREAT INDEX - Class 3 - Exit: 2/5 Somewhat Difficult to Exit - Environment: 4/5 High Environmental Risk - Entities: 3/5 Major Hostile Presence Description ...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/e/e7/Coin57.png/revision/latest?cb=20260211120336",
+        "https://static.wikia.nocookie.net/backrooms/images/6/64/Image_2026-02-12_233416370.png/revision/latest?cb=20260213115223",
+        "https://static.wikia.nocookie.net/backrooms/images/d/d9/Image_2026-02-12_233731400.png/revision/latest?cb=20260213115231",
+        "https://static.wikia.nocookie.net/backrooms/images/8/89/Image_2026-02-13_100222135.png/revision/latest?cb=20260213030555",
+        "https://static.wikia.nocookie.net/backrooms/images/a/a5/Image_2026-02-12_234531883.png/revision/latest?cb=20260213032414",
+        "https://static.wikia.nocookie.net/backrooms/images/d/d1/40713408243_d6825b92dc_k.jpg/revision/latest?cb=20260213135853",
+        "https://static.wikia.nocookie.net/backrooms/images/f/f1/Image_2026-02-14_122453595.png/revision/latest?cb=20260214052502"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_96",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_97",
+      "title": "Level 97",
+      "pageid": 135184,
+      "sub_type": "Normal",
+      "survival_difficulty": "Class 1",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [],
+      "summary": "- \"....We should start by moving in to that weird skyscraper then.\"* - \"Oh. Right.\" - \"What do you think?\" - \"It's good. We have a lot of space. If you plan for this organization to be big, I don't think you could have chosen a better place.\"* - \"It *will* be important. Soon, this place will... mean more than just a random tower.\"",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_97",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_974",
+      "title": "Level 974",
+      "pageid": 51215,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 55",
+        "Level 10.5",
+        "Level 39",
+        "Level 45",
+        "Level 16",
+        "Level 60",
+        "Level 94",
+        "Level 690"
+      ],
+      "summary": "User:IceCraft2022/974.css A boy steadfastly walks in front of an altar. With nothing but incense and a heavy heart. On the table lies a picture and a name. Will his world ever be the same? What a hectic day for everyone else, but not for him. It’s been like months, but he refused to forget about that. Bella Anderson. The only relative he had left in his life vanished, her existence being taken awa...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/6/6d/Isthatyou.PNG/revision/latest?cb=20260709142253"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_974",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_98",
+      "title": "Level 98",
+      "pageid": 104870,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 33",
+        "Level 16",
+        "Level 5",
+        "Level 97",
+        "Level 7.5",
+        "Level 10.3",
+        "Level 6",
+        "Level 99",
+        "Level 88",
+        "Level 570"
+      ],
+      "summary": "- Level 98 is the 99th level within the Backrooms. 1. Description - Level 98 , often known as \"Downtown Diner,\" is a seemingly replica structure housed inside an extraordinarily enormous concrete chamber that repeats sections of a building-lined street for thousands of miles until eventually looping itself. The concrete textile construction resembles ancient architectural manners with predominantl...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/9/9f/Level86.png/revision/latest?cb=20231117154948",
+        "https://static.wikia.nocookie.net/backrooms/images/1/1b/Level86-1.jpg/revision/latest?cb=20231117155949",
+        "https://static.wikia.nocookie.net/backrooms/images/c/cc/Level86-2.jpg/revision/latest?cb=20231117160554",
+        "https://static.wikia.nocookie.net/backrooms/images/7/78/Level86-3.jpg/revision/latest?cb=20231117160508",
+        "https://static.wikia.nocookie.net/backrooms/images/e/e4/9886rewperm.png/revision/latest?cb=20240106172956"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_98",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_99",
+      "title": "Level 99",
+      "pageid": 50518,
+      "sub_type": "Normal",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 18",
+        "Level 197",
+        "Level 100",
+        "Level 0",
+        "Level 4",
+        "Level 9",
+        "Level 18.1",
+        "Level 37",
+        "Level 95",
+        "Level 98",
+        "Level 100.2"
+      ],
+      "summary": "NOEDITSECTION NOTOC 🎝 Wonderful soundtrack!!! (Information in Authors & Licensing) 🎝 Level 99 is the 100th level of the Backrooms, *twisted *and *entangled * with a collection of levels mainly found in Cluster I and potentially a few Anomalous Levels . The level alone is highly anomalous and unstable, giving it these properties. 1. Description D983FF - Level 99 is well known as \"Anemoia\" . It is a...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/3/38/Level99Title.gif/revision/latest?cb=20221231192100",
+        "https://static.wikia.nocookie.net/backrooms/images/9/94/Level99CustomClass1.png/revision/latest?cb=20221231174444",
+        "https://static.wikia.nocookie.net/backrooms/images/5/59/Level99CustomClass2.png/revision/latest?cb=20221231195255",
+        "https://static.wikia.nocookie.net/backrooms/images/b/b7/Level99GrassField.png/revision/latest?cb=20221208134226",
+        "https://static.wikia.nocookie.net/backrooms/images/c/cd/Level99HouseThingy.png/revision/latest?cb=20221208134601",
+        "https://static.wikia.nocookie.net/backrooms/images/8/8e/Level99School.webp/revision/latest?cb=20221207020914",
+        "https://static.wikia.nocookie.net/backrooms/images/3/33/Level99Space.png/revision/latest?cb=20221205025330",
+        "https://static.wikia.nocookie.net/backrooms/images/1/16/Level99Subspace.jpg/revision/latest?cb=20221207135711",
+        "https://static.wikia.nocookie.net/backrooms/images/5/53/Level99Store.png/revision/latest?cb=20221207140135",
+        "https://static.wikia.nocookie.net/backrooms/images/3/33/ClosingSupermarket.png/revision/latest?cb=20221201033909"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_99",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "the_end",
+      "title": "The End",
+      "pageid": 464,
+      "sub_type": "Special_or_Sub",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [],
+      "summary": "NOTOC 1. Description - The End is a presumably infinite library composed of open areas and wide corridors. The building contains bookshelves, stands, and the usual apparatus of a normal library. Furniture is often positioned randomly, sometimes converging with one another or connecting into the walls. The library is virtually devoid of books, leaving its shelves barren. Throughout the building, sh...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/2/2f/5e9dlekogg331.jpg/revision/latest?cb=20190620005500",
+        "https://static.wikia.nocookie.net/backrooms/images/a/a4/Borders-the-end-is-near.jpg/revision/latest?cb=20210329142123"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/The_End",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "the_hive",
+      "title": "The Hive",
+      "pageid": 1856,
+      "sub_type": "Special_or_Sub",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 45",
+        "Level 8",
+        "Level 1"
+      ],
+      "summary": "Access to this page is strictly restricted to The First, Impresarios, and M.E.G. designees only. Therefore, if you wish to access this page, you will be required to enter your valid credentials. You are currently being stalked and closely monitored by agents of the M.E.G. Under no circumstances should the contents of this file be disclosed to anyone without proper authorization. Any unauthorized r...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/9/9e/White.II.png/revision/latest?cb=20241013032119",
+        "https://static.wikia.nocookie.net/backrooms/images/3/31/BF8CC94B-7A04-49AC-A763-F3192CB9201B.jpeg/revision/latest?cb=20220723043310",
+        "https://static.wikia.nocookie.net/backrooms/images/9/92/The_Hive.png/revision/latest?cb=20220721131726",
+        "https://static.wikia.nocookie.net/backrooms/images/d/d2/HsssssshiveI.jpg/revision/latest?cb=20241027150300",
+        "https://static.wikia.nocookie.net/backrooms/images/0/0f/Vignette.png/revision/latest?cb=20230309223138",
+        "https://static.wikia.nocookie.net/backrooms/images/a/ae/1130-2.gif/revision/latest?cb=20240304221236"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/The_Hive",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "the_hub",
+      "title": "The Hub",
+      "pageid": 61845,
+      "sub_type": "Special_or_Sub",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 0",
+        "Level 37",
+        "Level 154",
+        "Level 1"
+      ],
+      "summary": "NOTOC - The Hub is an anomalous location within the Backrooms. 1. Description - The Hub is a sprawling subterranean complex of brick tunnels, serving as a nexus between Backrooms levels. The Hub is known to contain entrances to a vast majority of levels, locked behind scattered steel doors which appear at inconstant, everchanging positions. The entire level is illuminated by orange-yellow lights, ...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/The_Hub",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "the_metro",
+      "title": "The Metro",
+      "pageid": 152610,
+      "sub_type": "Special_or_Sub",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 11",
+        "Level 913",
+        "The Hub"
+      ],
+      "summary": "combining multiple light-colored texts and adding a text-shadow to it with a white background might be the worst take for lightmode, my eye hurts on the file \"Navigation.png\" used here, almost all pages have since been deleted. mono 1. The Metro NOTOC A Subway beyond your imagination. A Train to innumerable destinations. Welcome to The Metro. 1. Description - The Metro is a perplexing subway syste...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/5/5f/Black_background_blurquote.png/revision/latest?cb=20231019145616",
+        "https://static.wikia.nocookie.net/backrooms/images/e/eb/Dark_background.png/revision/latest?cb=20230921104336",
+        "https://static.wikia.nocookie.net/backrooms/images/a/ae/1130-2.gif/revision/latest?cb=20240304221236"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/The_Metro",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "the_void",
+      "title": "The Void",
+      "pageid": 9141,
+      "sub_type": "Special_or_Sub",
+      "survival_difficulty": "Unknown",
+      "is_solitude": true,
+      "optimization_mode": "outdoor_chunk_100m",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 0"
+      ],
+      "summary": "User:Egglord1/TheVoid.css NOTOC Description - The Void is an ephemeral, transitory space temporarily accessed during the process of noclipping. It is speculated to be the space \"in-between\" all levels of the Backrooms, though this theory is shaky at best. It appears to be boundless in scale, lacking any visible spatial borders. It is completely lightless and empty, lacking any visual or auditory i...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/The_Void",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_exclamation",
+      "title": "Level !",
+      "pageid": 142989,
+      "sub_type": "Special_or_Sub",
+      "survival_difficulty": "Class 5",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [],
+      "summary": "User:所有盒子/沙盒31.css zh:Level !",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_%21",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_fun",
+      "title": "Level Fun",
+      "pageid": 113024,
+      "sub_type": "Special_or_Sub",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 11",
+        "Level 18",
+        "Level 21",
+        "Level 25",
+        "Level 52",
+        "Level 257",
+        "Level 800"
+      ],
+      "summary": "- Level Fun refers to an anomalous set of distinct, connected locations that propagate the Sanguine Festivus virus. 1. Description - Level Fun is a spacious warehouse containing a vast amount of inflatable bounce houses. The only visible walls are those along the entrance, as the rest of the interior is entirely obscured by the numerous inflatables, with some of the largest nearly reaching the met...",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/backrooms/images/3/3f/Major_Explorer_Group_logo.png/revision/latest?cb=20250331183246"
+      ],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_Fun",
+      "license": "CC-BY-SA-3.0"
+    },
+    {
+      "id": "level_6_1",
+      "title": "Level 6.1",
+      "pageid": 138452,
+      "sub_type": "Special_or_Sub",
+      "survival_difficulty": "Unknown",
+      "is_solitude": false,
+      "optimization_mode": "indoor_occlusion",
+      "audio_profile": {
+        "mode": "ambient_only",
+        "strict_silence": false,
+        "bgm_enabled": false
+      },
+      "connections": [
+        "Level 6"
+      ],
+      "summary": "- Level 6.1 is a subterranean expanse of hanging roots and dead boreal trees that form a thick canopy above the horizon. Presumed to reside below the complex of Level 6, it retains many of its superficial features—namely the profound darkness that permeates every corner of the level. However, the level's darkness is not entirely pitch-black. In addition, various light sources, such as lanterns and...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Level_6.1",
+      "license": "CC-BY-SA-3.0"
+    }
+  ],
+  "entities": [],
+  "items": [
+    {
+      "id": "object_1",
+      "title": "Object 1",
+      "pageid": 141,
+      "item_type": "consumable",
+      "summary": "1. Description - Object 1, more commonly known as \" Almond Water ,\" is a naturally flavored beverage commonly found within numerous levels of the backrooms. It is the most abundant source of hydration and is a crucial item for avoiding critical dehydration while traveling. Almond Water has a sweet almond/vanilla taste mixed with purified rose water. It is found in several forms of bottled containm...",
+      "image_urls": [],
+      "source_url": "https://backrooms.fandom.com/wiki/Object_1",
+      "license": "CC-BY-SA-3.0"
+    }
+  ]
+}
